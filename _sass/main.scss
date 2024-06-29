@@ -1,5 +1,6 @@
 @import 'libs/vars';
 @import 'libs/functions';
+
 @import 'libs/mixins';
 @import 'font-awesome.min.css';
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
@@ -41,7 +42,7 @@
 				@include vendor('transition', 'none !important');
 			}
 		}
-	}
+}
 
 	body, input, select, textarea {
 		color: _palette(fg);
