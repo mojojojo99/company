@@ -68,7 +68,7 @@ Once again, we have no one but you, our customers to thank for your continued su
                   <img src="assets/images/pic02.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
                 </div>
                 <div class="ag-timeline-card_info">
-                  <div class="ag-timeline-card_title">Season 12</div>
+                  <div class="ag-timeline-card_title">Taking over the business</div>
                   <div class="ag-timeline-card_desc">
                     The current owner, Thomas was then entrusted with Sim Hup Seng from his father, Mr. Lim SY, and renamed it to Sim Hup Seng Services. 
                     Being new in this sector, Thomas had big shoes to fill. 
@@ -94,7 +94,7 @@ Once again, we have no one but you, our customers to thank for your continued su
                   <img src="assets/images/pic03.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
                 </div>
                 <div class="ag-timeline-card_info">
-                  <div class="ag-timeline-card_title">Season 11</div>
+                  <div class="ag-timeline-card_title">Opportunity for Change</div>
                   <div class="ag-timeline-card_desc">
                     Thomas witnessed an old lady having difficulty climbing up the previous Stainless Steel Portable Toilet. 
                     The high raised steps leading up to the toilet, the squatting-style toilet bowl and the often times slippery flooring posed serious problems for elderly toilet users.
@@ -186,7 +186,3 @@ Once again, we have no one but you, our customers to thank for your continued su
     </div>
   </section>
 </div>
-<!-- </section> -->
-
-
-

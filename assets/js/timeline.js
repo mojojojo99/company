@@ -19,6 +19,7 @@
       agOuterHeight = $(window).outerHeight(),
       agHeight = $(window).height(),
       f = -1,
+      scale = $(window).width() < 979 ? 1.5 : 0.5;
       agFlag = false;
 
     function fnOnScroll() {
@@ -54,10 +55,11 @@
       i <= agPosY + agOuterHeight / 2 && (n = i - a);
       agTimelineLineProgress.css({height: n + "px"});
 
+
       agTimelineItem.each(function () {
         var agTop = $(this).find(agTimelinePoint).offset().top;
 
-        (agTop + agPosY - $(window).scrollTop()) < agPosY + .5 * agOuterHeight ? $(this).addClass('js-ag-active') : $(this).removeClass('js-ag-active');
+        (agTop + agPosY - $(window).scrollTop()) < agPosY + scale * agOuterHeight ? $(this).addClass('js-ag-active') : $(this).removeClass('js-ag-active');
       })
     }
 
