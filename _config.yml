@@ -3,7 +3,7 @@ title: Sim Hup Seng Services
 email: simhupsengservices@gmail.com
 description: Bringing you the best of our portable toilets in Singapore.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://mojojojo99.github.io" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
