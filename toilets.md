@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VIP Portable Toilets
+title: VIP Portable Toilet Rentals
 description: Spacious, ventilated, porcelain sitting-style toilets installed with elderly-friendly features. 
 
 image: realtoilet2.jpg
@@ -8,8 +8,12 @@ image2: iconblur.jpg
 ---
 
 <section>
+<h2>VIP Portable Toilet Rentals</h2>
+All below toilets are available for rental. <br /><br />
+We provide <b>manhole toilets</b> with water supply -- these toilets are placed on manholes so that the toilet flushes directly to the sewers. No stink, we promise. <br /><br />
+Give us an address and you can leave everything else to us. Ring us today! 
 <hr />
-<h2><b>In the inside of our </b>VIP Portable Toilets</h2>
+<h3><b>Peek inside our new </b>VIP Portable Toilets</h3>
 <div class="box alt">
 	<div class="row uniform 50%">
 		<div class="6u"><span class="image fit" style="padding: 1em"><img src="assets/images/realtoilet1.jpg" alt="" /></span></div>
@@ -35,7 +39,7 @@ image2: iconblur.jpg
 	</div>
 </div>
 <hr />
-<h2><b>In the inside of our </b>Luxury Portable Toilets</h2>
+<h3><b>Peek inside of our </b>Luxury Portable Toilets</h3>
 <div class="box alt">
 	<div class="row uniform 50%">
 		<div class="6u"><span class="image fit" style="padding: 1em"><img src="assets/images/realtoilet1.jpg" alt="" /></span></div>
@@ -61,7 +65,7 @@ image2: iconblur.jpg
 </section>
 
 <section>
-	<h2><b>Have a Question? </b>Leave us a message!</h2>
+	<h3><b>Have a Question? </b>Leave us a message!</h3>
 	<p> We will get back to you within 1-2 business days.</p>
 	<br/>
 	<form method="post" action="#">
