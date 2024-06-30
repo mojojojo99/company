@@ -16,8 +16,8 @@ Give us an address and you can leave everything else to us. Ring us today!
 <h3><b>Peek inside our new </b>VIP Portable Toilets</h3>
 <div class="box alt">
 	<div class="row uniform 50%">
-		<div class="6u"><span class="image fit" style="padding: 1em"><img src="assets/images/realtoilet1.jpg" alt="" /></span></div>
-		<div class="6u">
+		<div class="6u 12u$(xsmall)"><span class="image fit" style="padding: 1em"><img src="assets/images/realtoilet1.jpg" alt="" /></span></div>
+		<div class="6u 12u$(xsmall)">
 		<h4 style="margin-top: 1em">Elder- Friendly Features:</h4>
 		<ul>
 			<li style="margin-left: 2em">One small step from ground to toilet</li>
@@ -42,8 +42,8 @@ Give us an address and you can leave everything else to us. Ring us today!
 <h3><b>Peek inside of our </b>Luxury Portable Toilets</h3>
 <div class="box alt">
 	<div class="row uniform 50%">
-		<div class="6u"><span class="image fit" style="padding: 1em"><img src="assets/images/realtoilet1.jpg" alt="" /></span></div>
-		<div class="6u">
+		<div class="6u 12u$(xsmall)"><span class="image fit" style="padding: 1em"><img src="assets/images/realtoilet1.jpg" alt="" /></span></div>
+		<div class="6u 12u$(xsmall)">
 		<h4 style="margin-top: 1em">Elder- Friendly Features:</h4>
 		<ul>
 			<li style="margin-left: 2em">One small step from ground to toilet</li>
