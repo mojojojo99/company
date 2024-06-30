@@ -19,7 +19,7 @@
       agOuterHeight = $(window).outerHeight(),
       agHeight = $(window).height(),
       f = -1,
-      scale = $(window).width() < 979 ? 1.5 : 0.5;
+      scale = $(window).width() < 736 ? 1.5 : 0.5;
       agFlag = false;
 
     function fnOnScroll() {
