@@ -1,13 +1,13 @@
 # Site settings
 title: Sim Hup Seng Services
 email: simhupsengservices@gmail.com
-description: The leading brand of portable toilets in Singapore.
+description: Bringing you the best of our portable toilets in Singapore.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 3
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 10
 
 # Misc settings
 featured-image-source:

@@ -11,8 +11,9 @@
 	</section>
 
 	{% endif %}{% endfor %}
-	{% for page in site.pages limit:site.tiles-count %}{% if site.tiles-source == 'pages' %}{% if page.layout == 'default' %}{% continue %}{% endif %}
-
+	{% for page in site.pages %}
+		<!-- limit:site.tiles-count %}{% if site.tiles-source == 'pages' %} -->
+	<!-- {% if page.layout == 'default' %}{% continue %}{% endif %} -->
 	<section class="spotlight">
 		<div class="image">{% if page.image %}<img src="{% if site.featured-image-source %}{{ page.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ page.image }}{% endif %}" alt="" />{% endif %}</div>
 		<div class="content">
@@ -20,7 +21,7 @@
 			<p>{{ page.description }}</p>
 		</div>
 	</section>
-
-	{% endif %}{% endfor %}
+	<!-- {% endif %} -->
+	{% endfor %}
 
 </section>
