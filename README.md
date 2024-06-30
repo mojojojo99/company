@@ -1,3 +1,5 @@
+WORK IN PROGRESS, will be resolving copyright very soon.
+
 # Spectral - Jekyll Theme
 
 A Jekyll version of the "Spectral" theme by [HTML5 UP](https://html5up.net/).
