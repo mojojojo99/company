@@ -4,6 +4,7 @@ email: simhupsengservices@gmail.com
 description: Bringing you the best of our portable toilets in Singapore.
 baseurl: "/company" # the subpath of your site, e.g. /blog
 url: "https://mojojojo99.github.io" # the base hostname & protocol for your site
+staticman_url: "https://jojo-static.herokuapp.com/v3/entry/github/mojojojo99/company/master/comments"
 
 # Homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
