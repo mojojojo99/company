@@ -2,6 +2,7 @@
 layout: page
 title: Contact Us 
 description: Connect with us through whatsapp, text, a phone call or email.
+order: 4
 
 image: icon2.jpg
 image2: iconblur.jpg

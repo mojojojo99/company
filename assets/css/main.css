@@ -17,7 +17,6 @@
 		font: inherit;
 		vertical-align: baseline;
 		scroll-behavior: smooth;
-		overflow-x: hidden;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -2495,6 +2494,9 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
+		border-width: .5em;
+    	border-color: #66000e;
+    	border-style: solid;
 	}
 
 		.spotlight .image {

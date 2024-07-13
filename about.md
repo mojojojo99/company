@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 description: Our humble beginnings 
+order: 1
 
 image: realtoilet2.jpg
 image2: iconblur.jpg
