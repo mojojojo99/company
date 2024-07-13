@@ -1931,7 +1931,7 @@
 		}
 
 		.icon.style3 {
-			color: #76ddff;
+			color: #66000e;
 		}
 
 /* Image */
@@ -2429,7 +2429,7 @@
 
 			.features li:before {
 				display: block;
-				color: #3cdbc0;
+				color: #66000e;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2820,6 +2820,11 @@
 				/* color: #ffffff; */
 				/* color: black; */
 				color: #2e3842;
+			}
+
+			.wrapper.style3 h3 {
+				border-style: solid;
+				background-color: rgba(0, 0, 0, 0.125);
 			}
 
 			.wrapper.style3 hr {
@@ -3640,7 +3645,7 @@
 /* Main */
 
 	#main > header {
-		padding: 12em 0 10em 0 ;
+		padding: 12em 10em 10em 10em ;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../assets/images/banner.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../assets/images/banner.jpg");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../assets/images/banner.jpg");
