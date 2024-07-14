@@ -5,22 +5,35 @@
     type="hidden"
     value="{{ page.url | absolute_url }}"
   />
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}" />
 
+  <div class="comment-rating" style="font-size:5em; padding-top:.25em">
+      <input id="star5" name="star" type="radio" value="5" class="radio-btn hide" />
+      <label style="color: #1d242a" for="star5">☆</label>
+      <input id="star4" name="star" type="radio" value="4" class="radio-btn hide" />
+      <label style="color: #1d242a" for="star4">☆</label>
+      <input id="star3" name="star" type="radio" value="3" class="radio-btn hide" />
+      <label style="color: #1d242a" for="star3">☆</label>
+      <input id="star2" name="star" type="radio" value="2" class="radio-btn hide" />
+      <label style="color: #1d242a" for="star2">☆</label>
+      <input id="star1" name="star" type="radio" value="1" class="radio-btn hide" />
+      <label style="color: #1d242a" for="star1">☆</label>
+      <div class="clear"></div>
+  </div>
+
+  <input name="options[slug]" type="hidden" value="{{ page.slug }}" />
+  <input
+    class="comment-name"
+    name="fields[name]"
+    type="text"
+    placeholder="Name"
+    required
+  />
+  <br />
   <textarea
     class="comment-message"
     name="fields[message]"
-    placeholder="Comment (markdown accepted)"
-    required
+    placeholder="Review message (optional)"
   ></textarea>
-  <div class="comment-bottom">
-    <input
-      class="comment-name"
-      name="fields[name]"
-      type="text"
-      placeholder="Name"
-      required
-    />
-    <button class="comment-submit" type="submit">SEND</button>
-  </div>
+  <br/>
+  <button class="comment-submit" type="submit">Leave a review</button>
 </form>

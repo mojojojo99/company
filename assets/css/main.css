@@ -1765,8 +1765,8 @@
 		z-index: -1;
 	}
 
-		input[type="checkbox"] + label,
-		input[type="radio"] + label {
+		input[type="checkbox"] + label {
+		/* input[type="radio"] + label { */
 			text-decoration: none;
 			color: #fff;
 			cursor: pointer;
@@ -1788,8 +1788,8 @@
 				text-transform: none !important;
 			}
 
-			input[type="checkbox"] + label:before,
-			input[type="radio"] + label:before {
+			input[type="checkbox"] + label:before {
+			/* input[type="radio"] + label:before { */
 				background: rgba(144, 144, 144, 0.25);
 				border-radius: 3px;
 				content: '';
@@ -1803,15 +1803,16 @@
 				width: 1.65em;
 			}
 
-		input[type="checkbox"]:checked + label:before,
-		input[type="radio"]:checked + label:before {
+		input[type="checkbox"]:checked + label:before {
+		/* input[type="radio"]:checked + label:before { */
 			background: #2e3842;
 			color: #fff;
 			content: '\f00c';
 		}
 
-		input[type="checkbox"]:focus + label:before,
-		input[type="radio"]:focus + label:before {
+		input[type="checkbox"]:focus + label:before
+		/* input[type="radio"]:focus + label:before { */
+		{
 			box-shadow: 0 0 0 2px #66000e;
 		}
 
@@ -4210,15 +4211,39 @@ img {
 	width: 19px;
 	position: absolute;
 }
-.content_2:before {
-	background: url(icon_testimonial_2_before.png) 0 0 no-repeat;
-	left: 0;
-}
-.content_2:after {
-	background: url(icon_testimonial_2_after.png) 0 0 no-repeat;
-	margin: 5px 10px;
-}
 .testimonial_2 p {
 	display: inline;
 }
 
+.comment-rating {
+    direction: rtl;
+    text-align: center;
+	margin-bottom: .5em;
+}
+
+.comment-rating > label {
+    /* float: right; */
+    display: inline;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    width: 1.1em;
+    cursor: pointer;
+    color: #000;
+}
+
+.comment-rating > label:hover,
+.comment-rating > label:hover ~ label,
+.comment-rating > input.radio-btn:checked ~ label {
+    color: transparent;
+}
+
+.comment-rating > label:hover:before,
+.comment-rating > label:hover ~ label:before,
+.comment-rating > input.radio-btn:checked ~ label:before,
+.comment-rating > input.radio-btn:checked ~ label:before {
+    content: "\2605";
+    position: absolute;
+    left: 0;
+    color: #FFD700;
+}
