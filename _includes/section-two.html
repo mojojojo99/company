@@ -18,6 +18,7 @@
 	{% if site.tiles-source == 'pages' %}
 	{% if page.layout == 'default' %}{% continue %}{% endif %}
 	{% if page.url == '/assets/css/style.css' %}{% continue %}{% endif %}
+	{% if page.url == '/assets/css/jojo.css' %}{% continue %}{% endif %}
 	{% if page.url == '/feed.xml' %}{% continue %}{% endif %}
 	<section class="spotlight">
 		<div class="image">{% if page.image %}<img src="{% if site.featured-image-source %}{{ page.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ page.image }}{% endif %}" alt="" />{% endif %}</div>

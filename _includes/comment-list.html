@@ -1,17 +1,57 @@
 <!-- _includes/comment-list.html -->
-{% assign comments = site.data.comments[page.slug] | where_exp: "item", "true" %} 
+<div class="testimonial_slider_2">
+{% assign comments = site.data.comments | where_exp: "item", "true" %} 
 {% assign sorted_comments = comments | sort: 'date' %} 
 {% for comment in sorted_comments %}
-<div class="comment">
-  <h3>{{comment.name}}</h3>
-  <time
-    class="post-meta dt-published"
-    datetime="{{ page.date | date_to_xmlschema }}"
-    itemprop="datePublished"
-  >
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    {{ comment.date | date:"%H:%M - %b %-d, %Y, %Y" }}
-  </time>
-  <p>{{comment.message | strip_html | markdownify }}</p>
+{% capture number %}{{ forloop.length }}{% endcapture %}
+{% assign i = forloop.index0 | plus:1 %}
+{% if forloop.index0 == 0 %}
+<input type="radio" style="margin-top: 2em" name="slider_2" id="slide_2_{{i}}" checked />
+{% else %}
+<input type="radio" style="margin-top: 2em" name="slider_2" id="slide_2_{{i}}" />
+{% endif %}
+{% endfor %}
+<div class="boo_inner clearfix">
+{% for comment in sorted_comments %}
+{% capture number %}{{ forloop.length }}{% endcapture %}
+{% assign i = forloop.index0 | plus:1 %}
+<div class="slide_content">
+	<div class="testimonial_2">
+		<div class="content_2" style="overflow-wrap:break-word; color: white">
+	            <div class="row uniform">
+                <div class="6u 12u(small)">
+			            <h3 style="text-align:left; padding-top:1em">{{comment.name}}</h3>
+                </div>
+                <div class="6u 12u(small)">
+                  <h3 style="text-align:left; font-size:2em; color: gold">★★★★★</h3>
+                </div>
+              </div>
+            <hr style="margin: 1.5em 0"/>
+            <div style="text-align:left">
+            {{comment.message | strip_html | markdownify }}
+            <br />
+            <br />
+            <p>
+              <time
+                class="post-meta dt-published"
+                datetime="{{ page.date | date_to_xmlschema }}"
+                itemprop="datePublished"
+              >
+                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                {{ comment.date | date:"%H:%M - %b %-d, %Y, %Y" }}
+              </time>
+            </p>
+            </div>
+	    </div>
+	</div>
 </div>
 {% endfor %}
+</div>
+</div>
+<div id="controls">
+{% for comment in sorted_comments %}
+{% capture number %}{{ forloop.length }}{% endcapture %}
+{% assign i = forloop.index0 | plus:1 %}
+	<label for="slide_2_{{i}}"></label>
+{% endfor %}
+</div>
