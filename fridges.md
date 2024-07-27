@@ -270,6 +270,5 @@ Performant freezers to keep temperatures at around -18 degree celsius. Perfect f
 </ul>
 <br />
 </span>
-<
 <hr />
 </section>

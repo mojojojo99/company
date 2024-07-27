@@ -2495,7 +2495,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		border-width: 0em 1em 1em 1em;
+		border-width: 0.5em 1em 0.5em 1em;
     	border-color: #66000e;
     	border-style: solid;
 	}
@@ -2515,13 +2515,29 @@
 			}
 
 		.spotlight .content {
-			padding: 2em 4em 0.1em 4em ;
+			padding: 1em 4em 1em 4em ;
 			-moz-order: 2;
 			-webkit-order: 2;
 			-ms-order: 2;
 			order: 2;
 			max-width: 48em;
 			width: 60%;
+		}
+
+		.spotlight:hover {
+		  border: 0.5em solid white;
+		  /* border-width: 0.5em 1em 0.5em 1em; */
+		  transition: all 1s;
+		  /* transform: translateY(0px); */
+		
+		  & .content h2 {
+		    transform: translateY(7px);
+		  	transition: all 1s;
+		  }
+		  & .content p {
+		    transform: translateY(-7px);
+		  	transition: all 1s;
+		  }
 		}
 
 		.spotlight:nth-child(2n) {
