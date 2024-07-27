@@ -10,10 +10,14 @@ image2: iconblur.jpg
 <section>
 <h2>VIP Portable Toilet Rentals</h2>
 All below toilets are available for rental. <br /><br />
-We provide <b>manhole toilets</b> with water supply -- these toilets are placed on manholes so that the toilet flushes directly to the sewers. No stink, we promise. <br /><br />
-Give us an address and you can leave everything else to us. Ring us today! 
+We provide <b>manhole toilets</b> with water supply -- these toilets are placed on manholes so that the toilet flushes directly to the sewers. 
+
+<br /><br />
 <hr />
 <h3><b>Our new </b>VIP Portable Toilets</h3>
+Our newer fleet of products acquired in 2018, fully equipped with elderly friendly features.
+<br/>
+<br/>
 <br/>
     <div class="container">
         <div class="carousel">
@@ -106,31 +110,129 @@ Give us an address and you can leave everything else to us. Ring us today!
 </ul>
 </span>
  
+<br />
 </section> 
 
 <section>
 <hr />
-<h3><b>Peek inside of our </b>Luxury Portable Toilets</h3>
-<div class="box alt">
-	<div class="row uniform 50%">
-		<div class="6u 12u$(xsmall)"><span class="image fit" style="padding: 1em"><img src="assets/images/realtoilet1.jpg" alt="" /></span></div>
-		<div class="6u 12u$(xsmall)">
-		<h4 style="margin-top: 1em">Elder- Friendly Features:</h4>
-		<ul>
-			<li style="margin-left: 2em">One small step from ground to toilet</li>
-			<li style="margin-left: 2em">White porcelain sitting-style toilet bowl</li>
-			<li style="margin-left: 2em">Anti-slip flooring</li>
-			<li style="margin-left: 2em">Hand wash basin</li>
-			<li style="margin-left: 2em">Shower facilities</li>
-			<li style="margin-left: 2em">Clothes hanger</li>
-			<li style="margin-left: 2em">Mirror</li>
-			<li style="margin-left: 2em">Liquid soap dispenser</li>
-			<li style="margin-left: 2em">Ceiling light</li>
-			<li style="margin-left: 2em">Toilet roll holder</li>
-			<li style="margin-left: 2em">Bin</li>
-		</ul>
-		</div>
-	</div>
-</div>
-<hr/>
-</section>
+
+<h3><b>Our Legacy </b>Luxury Portable Toilets</h3>
+Our older batch of products acquired in 2015. Well-maintained, fully functioning and equipped with the initial of elderly friendly features.
+<br/>
+<br/>
+<br/>
+    <div class="container2">
+        <div class="carousel2">
+            <input type="radio" name="slides2" checked="checked" id="slide-21">
+            <input type="radio" name="slides2" id="slide-22">
+            <input type="radio" name="slides2" id="slide-23">
+            <input type="radio" name="slides2" id="slide-24">
+            <input type="radio" name="slides2" id="slide-25">
+            <input type="radio" name="slides2" id="slide-26">
+            <ul class="carousel2__slides">
+                <li class="carousel2__slide">
+                    <figure>
+                        <div>
+                            <img src="assets/images/beigetoilet.webp" alt="">
+                        </div>
+                    </figure>
+                </li>
+                <li class="carousel2__slide">
+                    <figure>
+                        <div>
+                            <img src="assets/images/beigetoilet2.webp" alt="">
+                        </div>
+                    </figure>
+                </li>
+                <li class="carousel2__slide">
+                    <figure>
+                        <div>
+                            <img src="assets/images/greentoilet.webp" alt="">
+                        </div>
+                    </figure>
+                </li>
+                <li class="carousel2__slide">
+                    <figure>
+                        <div>
+                            <img src="assets/images/greentoilet2.webp" alt="">
+                        </div>
+                    </figure>
+                </li>
+                <li class="carousel2__slide">
+                    <figure>
+                        <div>
+                            <img src="assets/images/bluetoilet.webp" alt="">
+                        </div>
+                    </figure>
+                </li>
+                <li class="carousel2__slide">
+                    <figure>
+                        <div>
+                            <img src="assets/images/bluetoilet2.webp" alt="">
+                        </div>
+                    </figure>
+                </li>
+            </ul> 
+			<span class="carousel2__words">
+			<h4>Elder- Friendly Features:</h4>
+			<ul>
+				<li style="margin-left: 2em">One small step from ground to toilet</li>
+				<li style="margin-left: 2em">White porcelain sitting-style toilet bowl</li>
+				<li style="margin-left: 2em">Anti-slip flooring</li>
+				<li style="margin-left: 2em">Hand wash basin</li>
+				<li style="margin-left: 2em">Shower facilities</li>
+				<li style="margin-left: 2em">Clothes hanger</li>
+				<li style="margin-left: 2em">Mirror</li>
+				<li style="margin-left: 2em">Liquid soap dispenser</li>
+				<li style="margin-left: 2em">Ceiling light</li>
+				<li style="margin-left: 2em">Spacious Interior</li>
+				<li style="margin-left: 2em">Toilet roll holder</li>
+				<li style="margin-left: 2em">Bin</li>
+			</ul>
+			</span>
+            <ul class="carousel2__thumbnails">
+                <li>
+                    <label style="margin: 0" for="slide-21"><img src="assets/images/beigetoilet.webp" alt=""></label>
+                </li>
+                <li>
+                    <label style="margin: 0" for="slide-22"><img src="assets/images/beigetoilet2.webp"></label>
+                </li>
+                <li>
+                    <label style="margin: 0" for="slide-23"><img src="assets/images/greentoilet.webp" alt=""></label>
+                </li>
+                <li>
+                    <label style="margin: 0" for="slide-24"><img src="assets/images/greentoilet2.webp"></label>
+                </li>
+                <li>
+                    <label style="margin: 0" for="slide-25"><img src="assets/images/bluetoilet.webp" alt=""></label>
+                </li>
+                <li>
+                    <label style="margin: 0" for="slide-26"><img src="assets/images/bluetoilet2.webp"></label>
+                </li>
+            </ul>
+        </div>
+    </div>
+<span class="carousel2__outside_words">
+<h4>Elder- Friendly Features:</h4>
+<ul>
+	<li style="margin-left: 2em">One small step from ground to toilet</li>
+	<li style="margin-left: 2em">White porcelain sitting-style toilet bowl</li>
+	<li style="margin-left: 2em">Anti-slip flooring</li>
+	<li style="margin-left: 2em">Hand wash basin</li>
+	<li style="margin-left: 2em">Shower facilities</li>
+	<li style="margin-left: 2em">Clothes hanger</li>
+	<li style="margin-left: 2em">Mirror</li>
+	<li style="margin-left: 2em">Liquid soap dispenser</li>
+	<li style="margin-left: 2em">Safety handrail/ bar</li>
+	<li style="margin-left: 2em">Exhaust fan</li>
+	<li style="margin-left: 2em">Scented wall</li>
+	<li style="margin-left: 2em">Ceiling light</li>
+	<li style="margin-left: 2em">Toilet roll holder</li>
+	<li style="margin-left: 2em">Bin</li>
+</ul>
+</span>
+ 
+<br />
+<hr />
+
+</section> 
