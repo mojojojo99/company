@@ -2498,8 +2498,8 @@
 		border-width: 0.5em 1em 0.5em 1em;
     	border-color: #66000e;
     	border-style: solid;
+		cursor: pointer
 	}
-
 		.spotlight .image {
 			-moz-order: 1;
 			-webkit-order: 1;

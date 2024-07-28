@@ -3,6 +3,7 @@ layout: page
 title: About Us
 description: Sim Hup Seng was incorporated more than 20 years ago, starting with only 10 stainless steel manhole toilets. To date we have more than 50 improved 'Elder-Friendly Portable Manhole Toilets. Learn more about what we do here! 
 order: 1
+name2: about
 
 image: icon2.jpg
 image2: iconblur.jpg

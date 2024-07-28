@@ -3,6 +3,7 @@ layout: page
 title: Fridge Rentals
 description: New, powerful, industrial size chillers for rental
 order: 3
+name2: fridges
 
 image: fridgecombined.jpg
 image2: iconblur.jpg

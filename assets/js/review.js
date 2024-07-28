@@ -1,4 +1,16 @@
 $(document).ready(function(){
+		$("#toilets").click(function() {
+			window.location.href = "toilets";
+ 	    });
+		$("#about").click(function() {
+			window.location.href = "about";
+ 	    });
+		$("#fridges").click(function() {
+			window.location.href = "fridges";
+ 	    });
+		$("#contact").click(function() {
+			window.location.href = "contact";
+ 	    });
 		pagenum = 1;
 		function AutoRotate() {
 		   var myele = null;
@@ -18,17 +30,4 @@ $(document).ready(function(){
 		   }
 		}
 		setInterval(AutoRotate, 2000);
-		const elements = document.querySelectorAll('.hover-effect');
-
-		elements.forEach((element) => {
-		  // Add touchstart event listener
-		  element.addEventListener('touchstart', () => {
-		    element.classList.add('touch-hover-effect');
-		  });
-	  
-		  element.addEventListener('touchend', () => {
-		    // Remove touch effect
-		    element.classList.remove('touch-hover-effect');
-		  });
-		});
 	});
