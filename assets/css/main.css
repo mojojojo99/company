@@ -5045,18 +5045,22 @@ body {
 
 @media (max-width: 600px) {
   .container-portfolio .box2:hover .content-portfolio {
-    transform: translate(0, 3.5rem);
+    transform: unset;
   }
   .container-portfolio .box2:hover .imgBox {
-    transform: translate(0, -3.5rem);
+    transform: unset;
   }
 
-.container-portfolio .box2 {
-  position: relative;
-  width: 30rem;
-  height: 30rem;
-  margin: 4rem 0em 4rem 0rem;
-}
+  .imgBox img {
+	height: 20rem;
+  }
+
+  .container-portfolio .box2 {
+    position: relative;
+    width: 30rem;
+    height: 30rem;
+    margin: 1rem 0em 1rem 0rem;
+  }
 
 
 }
