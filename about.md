@@ -41,7 +41,7 @@ Once again, we have no one but you, our customers to thank for your continued su
             <div class="ag-timeline-card_item">
               <div class="ag-timeline-card_inner">
                 <div class="ag-timeline-card_img-box">
-                  <img src="assets/images/pic01.jpg" class="ag-timeline-card_img" width="640" height="360" />
+                  <img src="assets/images/hist1.jpg" class="ag-timeline-card_img" style="padding:0 20% 0 20%" height="360" />
                 </div>
                 <div class="ag-timeline-card_info">
                   <div class="ag-timeline-card_title">Beginnings</div>
@@ -67,7 +67,7 @@ Once again, we have no one but you, our customers to thank for your continued su
             <div class="ag-timeline-card_item">
               <div class="ag-timeline-card_inner">
                 <div class="ag-timeline-card_img-box">
-                  <img src="assets/images/pic02.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
+                  <img src="assets/images/hist2.png" class="ag-timeline-card_img" width="640" height="360" alt="" />
                 </div>
                 <div class="ag-timeline-card_info">
                   <div class="ag-timeline-card_title">Taking over the business</div>
@@ -93,7 +93,7 @@ Once again, we have no one but you, our customers to thank for your continued su
             <div class="ag-timeline-card_item">
               <div class="ag-timeline-card_inner">
                 <div class="ag-timeline-card_img-box">
-                  <img src="assets/images/pic03.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
+                  <img src="assets/images/hist3.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
                 </div>
                 <div class="ag-timeline-card_info">
                   <div class="ag-timeline-card_title">Opportunity for Change</div>
@@ -119,7 +119,7 @@ Once again, we have no one but you, our customers to thank for your continued su
             <div class="ag-timeline-card_item">
               <div class="ag-timeline-card_inner">
                 <div class="ag-timeline-card_img-box">
-                  <img src="assets/images/pic01.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
+                  <img src="assets/images/hist4.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
                 </div>
                 <div class="ag-timeline-card_info">
                   <div class="ag-timeline-card_title">The New Age</div>
@@ -144,7 +144,7 @@ Once again, we have no one but you, our customers to thank for your continued su
             <div class="ag-timeline-card_item">
               <div class="ag-timeline-card_inner">
                 <div class="ag-timeline-card_img-box">
-                  <img src="assets/images/pic02.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
+                  <img src="assets/images/hist5.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
                 </div>
                 <div class="ag-timeline-card_info">
                   <div class="ag-timeline-card_title">A Huge Success</div>
@@ -170,7 +170,7 @@ Once again, we have no one but you, our customers to thank for your continued su
             <div class="ag-timeline-card_item">
               <div class="ag-timeline-card_inner">
                 <div class="ag-timeline-card_img-box">
-                  <img src="assets/images/pic03.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
+                  <img src="assets/images/hist6.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
                 </div>
                 <div class="ag-timeline-card_info">
                   <div class="ag-timeline-card_title">The Service Mindset</div>

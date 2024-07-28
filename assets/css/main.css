@@ -4045,6 +4045,8 @@ img {
 }
 .ag-timeline-card_img {
   width: 100%;
+  border: solid .5em #2e3842;
+  border-radius: 2em;
 }
 .ag-timeline-card_info {
   padding: 20px 30px;
