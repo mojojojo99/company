@@ -11,7 +11,7 @@ image2: iconblur.jpg
 <section>
 <h2>Contact Us</h2>
 
-Please feel free to connect with us through whatsapp, phone or email.
+Please feel free to connect with us through whatsapp, phone or email. <br /><br/>
 We will respond in 1-2 business days.
 
 <hr/>
