@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VIP Portable Toilet Rentals
+title: Portable Toilet Rentals
 description: Spacious, ventilated, porcelain sitting-style toilets installed with elderly-friendly features. 
 order: 2
 name2: toilets

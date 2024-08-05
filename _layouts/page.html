@@ -24,7 +24,9 @@
 
             </div>
         </section>
+        {% if page.name != 'contact.md' %}
         {% include contact-us.html %}
+        {% endif %}
     </article>
 
     {% include footer.html %}

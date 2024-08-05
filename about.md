@@ -9,18 +9,32 @@ image: icon2.jpg
 image2: iconblur.jpg
 ---
 
+
+<h2>Why Us?</h2>
+
+<b>Convenience</b>, <b>Comfort</b> and <b>Safety</b>. <br/> 
+
+Sim Hup Seng has been devoted to designing user friendly toilets, aiming to bring comfort for all users. Our newly designed toilets are designed for <b>elderly friendly usage </b> with safety handrails, sitting-style toilet bowls, low steps etc. (<a href="toilets">click here</a> for more information on our toilets). 
+
+<h2>Recognition</h2>
+<div class="row uniform 50%">
+	<div class="4u 12u(small) image" style="padding: 2em"><img src="assets/images/tampines.jpg"></div>
+	<div class="8u 12u(small)" style="padding: 2em">
+    We are honored to have our efforts recognized as Sim Hup Seng was the <b>first Portable Toilet Rental Company</b> permissioned to install our 'Elder-Friendly' Portable Manhole Toilets for use in the Tampines Estate, by the Town Council.<br /><br/>
+    For over 20 years, <b>Customer comfort</b> and <b>User Friendliness</b> has always been the top priority for Sim Hup Seng, and we believe that these efforts go the long way. <br/>
+	</div>
+</div>
+	
 <h2>Our Humble Beginnings</h2>
 Sim Hup Seng has a long history, stretching back to the 1980s. From generation to generation, this business and the service philosophy was passed down through the family line. 
 
-Sim Hup Seng Services has gone through overwhelming change and growth since its humble origins. Thomas, the current owner of the business, has repeatedly re-designed the Portable Toilets into the present day <b>fiber-glass manhole toilets with a range of premium facilities</b> to meet your needs. From a one man show, our business has grown steadily over the last decades.
-
-Once again, we have no one but you, our customers to thank for your continued support over the years. 
-
-<b>Thank you! </b>
+Sim Hup Seng Services has gone through many remarkable changes since its humble origins. Thomas, the current owner of the business, has repeatedly re-designed the Portable Toilets into the present day <b>fiber-glass manhole toilets with a range of premium facilities</b> to meet your needs. From a one man show, our business has grown steadily over the last decades.
 
 <hr />
 
-<h4>Timeline</h4>
+<h4>Our Timeline</h4>
+Retrace our footsteps here!
+
 <div class="ag-timeline-block">
   <section class="ag-section">
     <div class="ag-format-container">
@@ -46,22 +60,23 @@ Once again, we have no one but you, our customers to thank for your continued su
                 <div class="ag-timeline-card_info">
                   <div class="ag-timeline-card_title">Beginnings</div>
                   <div class="ag-timeline-card_desc">
-                    Mr Lim SY, the current owner's father, started this business from scratch with a mere 5 portable toilets.  
-                    Mr Lim SY ran this business by himself, handling each request and delivering each portable toilet personally.
+                    Mr Lim SY, the current owner's father, started this business from scratch with a mere 10 portable toilets.  
+                    Mr Lim SY ran this business by himself, handling each tentage rental request and delivering each portable toilet personally.<br/>
+
+                    新合成是个30多年的老招牌。那时林瑞远先生自己亲手创办了新合成，公司仅有10只流动厕所。
                   </div>
                 </div>
               </div>
               <div class="ag-timeline-card_arrow"></div>
             </div>
           </div>
-
           <div class="js-timeline_item ag-timeline_item">
             <div class="ag-timeline-card_box">
               <div class="ag-timeline-card_meta-box">
                 <div class="ag-timeline-card_meta">Taking over the business</div>
               </div>
               <div class="js-timeline-card_point-box ag-timeline-card_point-box">
-                <div class="ag-timeline-card_point">2010</div>
+                <div class="ag-timeline-card_point">2009</div>
               </div>
             </div>
             <div class="ag-timeline-card_item">
@@ -73,7 +88,9 @@ Once again, we have no one but you, our customers to thank for your continued su
                   <div class="ag-timeline-card_title">Taking over the business</div>
                   <div class="ag-timeline-card_desc">
                     The current owner, Thomas was then entrusted with Sim Hup Seng from his father, Mr. Lim SY, and renamed it to Sim Hup Seng Services. 
-                    Being new in this sector, Thomas had big shoes to fill. 
+                    Being new in this sector, Thomas had big shoes to fill.<br/> 
+
+                    Thomas老板在2009年尾开始帮忙父亲管理公司。Thomas认为做什么事都必须从最底层做起。做出租流动厕所的生意也一样，必须自己去体验搬运厕所的酸甜苦乐，才会从日晒雨淋中了解到员工们工作的辛酸和得到一些意想不到的启发。
                   </div>
                 </div>
               </div>
@@ -84,7 +101,7 @@ Once again, we have no one but you, our customers to thank for your continued su
           <div class="js-timeline_item ag-timeline_item">
             <div class="ag-timeline-card_box">
               <div class="js-timeline-card_point-box ag-timeline-card_point-box">
-                <div class="ag-timeline-card_point">2011</div>
+                <div class="ag-timeline-card_point">2010</div>
               </div>
               <div class="ag-timeline-card_meta-box">
                 <div class="ag-timeline-card_meta">Opportunity for Change</div>
@@ -99,7 +116,10 @@ Once again, we have no one but you, our customers to thank for your continued su
                   <div class="ag-timeline-card_title">Opportunity for Change</div>
                   <div class="ag-timeline-card_desc">
                     Thomas witnessed an old lady having difficulty climbing up the previous Stainless Steel Portable Toilet. 
-                    The high raised steps leading up to the toilet, the squatting-style toilet bowl and the often times slippery flooring posed serious problems for elderly toilet users.
+                    The high raised steps leading up to the toilet, the squatting-style toilet bowl and the often times slippery flooring posed serious problems for elderly toilet users. <br/>
+
+                    有一次，在Thomas带领员工去服务一组丧礼时，他目睹一位年迈的老妇极辛苦的想要攀上铁厕的夹梯。他连忙上前扶持老妇并协助她登上铁厕。老妇抱怨自己已老迈，双脚无力，要登上夹梯上个厕所已是一个很艰难的挑战。如厕时还要她蹲下，简直是苦不堪言。
+                    她的话一字一字地触动了Thomas，也刺痛了他的心。于是Thomas开始了他的新构思。他想要设计出比较经济实惠，而且非常适用于乐龄人士的流动厕所。
                   </div>
                 </div>
               </div>
@@ -113,7 +133,7 @@ Once again, we have no one but you, our customers to thank for your continued su
                 <div class="ag-timeline-card_meta">The New Age</div>
               </div>
               <div class="js-timeline-card_point-box ag-timeline-card_point-box">
-                <div class="ag-timeline-card_point">2012</div>
+                <div class="ag-timeline-card_point">2011</div>
               </div>
             </div>
             <div class="ag-timeline-card_item">
@@ -124,7 +144,9 @@ Once again, we have no one but you, our customers to thank for your continued su
                 <div class="ag-timeline-card_info">
                   <div class="ag-timeline-card_title">The New Age</div>
                   <div class="ag-timeline-card_desc">
-                  Thomas worked hard re-designing a new fleet of portable toilets. These toilets will have no raised steps, sitting-style ceramic bowls, elderly handrails and anti-slip flooring. With bated breath, the toilet was launched to market.
+                  Thomas worked hard re-designing a new fleet of portable toilets. These toilets will have no raised steps, sitting-style ceramic bowls, elderly handrails and anti-slip flooring. With bated breath, the toilet was launched to market. <br/>
+
+                  整整用了8个月的时间设计和改良，第一批为乐龄人士而设计的厕所终于在2011年9月面市了。这10只用塑料厕改装的厕所，厕内面积宽大，厕所的地板只离地少于15cm，而且也安装了陶瓷坐式马桶。这样一来，乐龄人只须踏一小步就能进入厕内。更重要的是双腿无力的乐龄人可以坐在马桶上，不必在担忧双脚无法蹲的问题了。而且厕所里也设有防滑地板，花洒，镜子，洗手盆，吊衣架等等。
                   </div>
                 </div>
               </div>
@@ -135,7 +157,7 @@ Once again, we have no one but you, our customers to thank for your continued su
           <div class="js-timeline_item ag-timeline_item">
             <div class="ag-timeline-card_box">
               <div class="js-timeline-card_point-box ag-timeline-card_point-box">
-                <div class="ag-timeline-card_point">2012</div>
+                <div class="ag-timeline-card_point">2013</div>
               </div>
               <div class="ag-timeline-card_meta-box">
                 <div class="ag-timeline-card_meta">A Huge Success</div>
@@ -150,7 +172,9 @@ Once again, we have no one but you, our customers to thank for your continued su
                   <div class="ag-timeline-card_title">A Huge Success</div>
                   <div class="ag-timeline-card_desc">
                     The new fleet of "elderly-friendly" toilets was a breakthrough in the industry and were extremely well-received by new and long-time customers alike.
-                    Industry competitors also followed suit in Sim Hup Seng Services' footsteps, raising the bar for portable toilets in SIngapore.
+                    Industry competitors also followed suit in Sim Hup Seng Services' footsteps, raising the bar for portable toilets in Singapore.<br/>
+
+                    这厕所广受乐龄人士欢迎。这使Thomas决定要全新改革，把所有的铁厕更换，引进了更多的乐龄人士的塑厕。第二批32架塑厕也因此在2013年5月面市了。这批新塑厕也势必为流动厕所这一行业带来一阵新风潮。
                   </div>
                 </div>
               </div>
@@ -175,7 +199,9 @@ Once again, we have no one but you, our customers to thank for your continued su
                 <div class="ag-timeline-card_info">
                   <div class="ag-timeline-card_title">The Service Mindset</div>
                   <div class="ag-timeline-card_desc">
-                  Till today, Thomas still insists on the bringing the personal touch to each and every rental request. Thomas has been redesigning toilets every other year based on feedback and suggestions from customers.
+                  Till today, Thomas still insists on the bringing the personal touch to each and every rental request. Thomas has been redesigning toilets every other year based on feedback and suggestions from customers. <br/>
+
+                  Thomas相信所有同行会跟风而改进自己的厕所以迎合市场的需求。他希望自己的创新能使流动厕所的水平提高，乐龄人士也因此不用再为使用流动厕所这事而烦恼了。
                   </div>
                 </div>
               </div>
