@@ -139,7 +139,7 @@ Retrace our footsteps here!
             <div class="ag-timeline-card_item">
               <div class="ag-timeline-card_inner">
                 <div class="ag-timeline-card_img-box">
-                  <img src="assets/images/hist4.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
+                  <img src="assets/images/hist42.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
                 </div>
                 <div class="ag-timeline-card_info">
                   <div class="ag-timeline-card_title">The New Age</div>
