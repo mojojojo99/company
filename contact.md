@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us 
 description: Connect with us through whatsapp, text, a phone call or email.
-order: 4
+order: 5
 name2: contact
 
 image: jojocontact.jpg
