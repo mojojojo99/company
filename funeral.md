@@ -294,8 +294,8 @@ Funerals for free thinkers, atheists, and non religious people offer a place for
 <br/>
 <br/>
 <div class="row uniform 50%">
-	<div class="8u 12u(small) image" style="padding: 2em"><img src="assets/images/free.jpeg"></div>
-	<div class="4u 12u(small)" style="padding: 2em">
+	<div class="7u 12u(small) image" style="padding: 2em"><img src="assets/images/free.jpeg"></div>
+	<div class="5u 12u(small)" style="padding-top: 2em">
     <ul>
         <li style="margin-left: 2em">Experienced professionals to handle funeral, caskets and setup arrangements. </li>
 	    <li style="margin-left: 2em">Wide range of products for different burial and/or cremation needs. </li>
