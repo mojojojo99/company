@@ -45,6 +45,9 @@ $(document).ready(function(){
 
 function phoneMask() { 
     var num = $(this).val().replace(/\D/g,''); 
+	if (num.length <= 4) {
+		return;
+	}
     $(this).val(num.substring(0,4) + ' ' + num.substring(4,8)); 
 }
 $('[type="tel"]').keyup(phoneMask);
