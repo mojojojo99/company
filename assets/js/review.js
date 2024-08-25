@@ -31,3 +31,23 @@ $(document).ready(function(){
 		}
 		setInterval(AutoRotate, 2000);
 	});
+
+ function submitForm(){
+     var radios = document.getElementsByName("fields[rating]");
+     for (var i = 0, len = radios.length; i < len; i++) {
+          if (radios[i].checked) {
+			  console.log('true');
+			  alert('true');
+              return true;
+          }
+     }
+    console.log('false');
+	$(".apparent-message").css('display', 'block');
+    return false;
+ }
+
+function phoneMask() { 
+    var num = $(this).val().replace(/\D/g,''); 
+    $(this).val(num.substring(0,4) + ' ' + num.substring(4,8)); 
+}
+$('[type="tel"]').keyup(phoneMask);

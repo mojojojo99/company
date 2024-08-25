@@ -1669,6 +1669,7 @@
 	}
 
 	input[type="text"],
+	input[type="tel"],
 	input[type="password"],
 	input[type="email"],
 	select,
@@ -1689,6 +1690,7 @@
 	}
 
 		input[type="text"]:invalid,
+		input[type="tel"]:invalid,
 		input[type="password"]:invalid,
 		input[type="email"]:invalid,
 		select:invalid,
@@ -1697,6 +1699,7 @@
 		}
 
 		input[type="text"]:focus,
+		input[type="tel"]:focus,
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		select:focus,
@@ -1741,6 +1744,7 @@
 		}
 
 	input[type="text"],
+	input[type="tel"],
 	input[type="password"],
 	input[type="email"],
 	select {
@@ -2703,6 +2707,7 @@
 			}
 
 			.wrapper.style1 input[type="text"],
+			.wrapper.style1 input[type="tel"],
 			.wrapper.style1 input[type="password"],
 			.wrapper.style1 input[type="email"],
 			.wrapper.style1 select,
@@ -2875,6 +2880,7 @@
 			}
 
 			.wrapper.style3 input[type="text"],
+			.wrapper.style3 input[type="tel"],
 			.wrapper.style3 input[type="password"],
 			.wrapper.style3 input[type="email"],
 			.wrapper.style3 select,
@@ -3033,6 +3039,7 @@
 			}
 
 			.wrapper.style5 input[type="text"],
+			.wrapper.style5 input[type="tel"],
 			.wrapper.style5 input[type="password"],
 			.wrapper.style5 input[type="email"],
 			.wrapper.style5 select,
@@ -4254,6 +4261,7 @@ img {
 .comment-rating > label:hover ~ label,
 .comment-rating > input.radio-btn:checked ~ label {
     color: transparent;
+
 }
 
 .comment-rating > label:hover:before,
@@ -5254,3 +5262,49 @@ body {
 }
 
 /*# sourceMappingURL=main.css.map */
+.apparent-message {
+    width: 100%;
+    border-style: solid;
+    border-width: 2px;
+    margin-bottom: 1em;
+	display: none;
+
+    .apparent-message-icon {
+        flex: 0 0 70px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 30px;
+        /* color: #fff; */
+        .fa-2x{
+            box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.45);
+        }
+        text-shadow: 1px 1px 10px #000;
+    }
+}
+
+.message-container {
+  display: flex;
+
+    .content-container {
+        flex-basis: 0;
+        flex-grow: 1;
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        height: 50px;
+        padding-left: 15px;
+        background-color: #3d4b59;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.45);
+        position: relative;
+        .message-body {
+            font-size: 0.8em;
+        }
+    }
+}
+
+.warning-message {
+    background-color:#f39b0e;
+    border-color: #f39b0e;
+}

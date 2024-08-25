@@ -156,7 +156,7 @@ Buddhist funerals are usually conducted in void decks and parlors with monks ons
 <section>
 <br/>
 <h3>Christian <b>Funeral Management Services:</b></h3>
-Christian funerals offer families and friends a time and place to honor the life of an important loved one, mourn their loss and get together to remember their life. Locations may differ based on personal preferences, this can be held in void decks, funeral parlours, churches etc.
+Christian funerals offer families and friends a time and place to honor the life of an important loved one, mourn their loss and get together to remember them. Locations may differ based on personal preferences, this can be held in void decks, funeral parlours, churches etc.
 <br/>
 <br/>
 <br/>
