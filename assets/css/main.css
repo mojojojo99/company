@@ -4220,9 +4220,9 @@ img {
 	background:#000; /* Change controls background color when mouse click */
 }
 .testimonial_2 {
-	font-size: 16px !important;
+	font-size: 15px !important;
 	color: #333; /* Change testimonial paragraph text color */
-	padding: 30px 30px;
+	padding: 0 30px 30px 30px;
 	background-color:#3d4b59;
 	margin: 2em;
 }
