@@ -42,12 +42,12 @@ $(document).ready(function(){
 		   }
 		}
 
-		var timer = setInterval(AutoRotate, 3000);
+		var timer = setInterval(AutoRotate, 7000);
 		$( "body" ).data("timer", timer);
 
 		function radioclickcallback() {
 			clearInterval(timer);
-			timer = setInterval(AutoRotate, 3000);
+			timer = setInterval(AutoRotate, 7000);
 		}
 
 		$( ".radio_comments" ).click( radioclickcallback );
