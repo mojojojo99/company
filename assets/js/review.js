@@ -11,10 +11,27 @@ $(document).ready(function(){
 		$("#contact").click(function() {
 			window.location.href = "contact";
  	    });
-		pagenum = 1;
 		function AutoRotate() {
-		   var myele = null;
-		   var allElements = document.getElementsByTagName('label');
+		   var allElements = document.getElementsByClassName('control_comments');
+		   pagenum = 1;
+		   count = 0;
+		   for (var i = 0, n = allElements.length; i < n; i++) {
+			   var myfor = allElements[i].getAttribute('for');
+			   if ((myfor !== null)) {
+				   count ++;
+				   var radio = document.getElementById(myfor);
+			   		if (radio.checked) {
+						pagenum = parseInt(myfor.substring(8), 10);
+					}
+			   }
+		   }
+
+		   if (pagenum == allElements.length) {
+			   pagenum = 1;
+		   } else {
+			   pagenum++;
+		   }
+	
 		   for (var i = 0, n = allElements.length; i < n; i++) {
 			   var myfor = allElements[i].getAttribute('for');
 			   if ((myfor !== null) && (myfor == ('slide_2_' + pagenum))) {
@@ -23,20 +40,26 @@ $(document).ready(function(){
 				   break;
 			   }
 		   }
-		   if (pagenum == allElements.length) {
-			   pagenum = 1;
-		   } else {
-			   pagenum++;
-		   }
 		}
-		setInterval(AutoRotate, 2000);
+
+		var timer = setInterval(AutoRotate, 3000);
+		$( "body" ).data("timer", timer);
+
+		function radioclickcallback() {
+			clearInterval(timer);
+			timer = setInterval(AutoRotate, 3000);
+		}
+
+		$( ".radio_comments" ).click( radioclickcallback );
 	});
 
- function submitForm(){
+ function submitForm(event){
      var radios = document.getElementsByName("fields[rating]");
      for (var i = 0, len = radios.length; i < len; i++) {
           if (radios[i].checked) {
-              return true;
+			event.preventDefault();
+			alert("true");
+            return true;
           }
      }
 	$(".apparent-message").css('display', 'block');

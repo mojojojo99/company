@@ -6,9 +6,9 @@
 {% capture number %}{{ forloop.length }}{% endcapture %}
 {% assign i = forloop.index0 | plus:1 %}
 {% if forloop.index0 == 0 %}
-<input type="radio" style="margin-top: 2em" name="slider_2" id="slide_2_{{i}}" checked />
+<input type="radio" class="radio_comments" style="margin-top: 2em" name="slider_2" id="slide_2_{{i}}" checked />
 {% else %}
-<input type="radio" style="margin-top: 2em" name="slider_2" id="slide_2_{{i}}" />
+<input type="radio" class="radio_comments" style="margin-top: 2em" name="slider_2" id="slide_2_{{i}}" />
 {% endif %}
 {% endfor %}
 <div class="boo_inner clearfix">
@@ -48,7 +48,7 @@
                 itemprop="datePublished"
               >
                 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                {{ comment.date | date:"%H:%M - %b %-d, %Y, %Y" }}
+                {{ comment.date | date:"%H:%M - %b %-d, %Y" }}
               </time>
             </p>
             </div>
@@ -62,6 +62,6 @@
 {% for comment in sorted_comments %}
 {% capture number %}{{ forloop.length }}{% endcapture %}
 {% assign i = forloop.index0 | plus:1 %}
-	<label for="slide_2_{{i}}"></label>
+	<label class="control_comments" for="slide_2_{{i}}"></label>
 {% endfor %}
 </div>

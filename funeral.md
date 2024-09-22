@@ -19,8 +19,8 @@ Our team and capable partners with decades of expereience go the long way to pro
 We promise and fully commit to <b>transparent pricing</b> for all packages. As each package is fully customized, please contact us for further information at <b style="font-weight: 800; font-size: 1em; color: #660000"> (65) 9112 5678 </b>.
 <br /><br />
 <hr />
-<h3>Buddhist <b>Funeral Management Services:</b></h3>
-Buddhist funerals are usually conducted in void decks and parlors with monks onsite to offer prayers and memorial services. Food, beverages and light refreshments can be arranged for guests paying respects.
+<h3>Buddhist/Taoist <b>Funeral Management Services:</b></h3>
+Buddhist/Taoist funerals are usually conducted in void decks and parlors. Some might opt to invite monks onsite to offer prayers and memorial services. Food, beverages and light refreshments can be arranged for guests paying respects.
 
 <br/>
 <br/>
@@ -104,7 +104,7 @@ Buddhist funerals are usually conducted in void decks and parlors with monks ons
 			<span class="carousel5__words">
 			<ul>
                 <li style="margin-left: 2em">Experienced professionals to handle funeral processions, rituals and setup arrangements. </li>
-                <li style="margin-left: 2em">Tailored guidance on customary rites from temple contacts, e.g. buddhist chants and wakes. </li>
+                <li style="margin-left: 2em">Tailored guidance on customary rites from temple contacts, e.g. chants and wakes. </li>
 				<li style="margin-left: 2em">Wide range of products for different burial and/or cremation needs. </li>
 				<li style="margin-left: 2em">Highly-personalized planning, consultations related to budget and preferences.</li>
 			</ul>
@@ -155,8 +155,8 @@ Buddhist funerals are usually conducted in void decks and parlors with monks ons
 
 <section>
 <br/>
-<h3>Christian <b>Funeral Management Services:</b></h3>
-Christian funerals offer families and friends a time and place to honor the life of an important loved one, mourn their loss and get together to remember them. Locations may differ based on personal preferences, this can be held in void decks, funeral parlours, churches etc.
+<h3>Christian/Catholic<b>Funeral Management Services:</b></h3>
+Christian/Catholic funerals offer families and friends a time and place to honor the life of an important loved one, mourn their loss and get together to remember them. Locations may differ based on personal preferences, this can be held in void decks, funeral parlours, churches etc.
 <br/>
 <br/>
 <br/>
