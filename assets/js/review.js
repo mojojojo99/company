@@ -12,7 +12,7 @@ $(document).ready(function(){
 			window.location.href = "contact";
  	    });
 
-		pagenum = 1;
+		var pagenum = 1;
 		function AutoRotate() {
 		   var allElements = document.getElementsByClassName('control_comments');
 		   count = 0;
@@ -47,38 +47,55 @@ $(document).ready(function(){
 		$( "body" ).data("timer", timer);
 
 		function radioclickcallback() {
+		    var allElements = document.getElementsByClassName('control_comments');
+		    for (var i = 0, n = allElements.length; i < n; i++) {
+			    var myfor = allElements[i].getAttribute('for');
+			    if ((myfor !== null)) {
+				    var radio = document.getElementById(myfor);
+			    		if (radio.checked) {
+					 	pagenum = parseInt(myfor.substring(8), 10);
+					 }
+			    }
+		    }
 			clearInterval(timer);
 			timer = setInterval(AutoRotate, 7000);
 		}
 
 		$( ".radio_comments" ).click( radioclickcallback );
 
-	// Get the modal
-	var modal = document.getElementById("myModal");
-		
+	
 	// Get the button that opens the modal
 	var btn = document.getElementById("myBtn");
 		
 	// Get the <span> element that closes the modal
-	var span = document.getElementById("closemodal");
-		
+	var modals = document.getElementsByClassName("modal2");
+	for (var i = 0, n = modals.length; i < n; i++) {
+		var modal = document.getElementById("myModal" + (i + 1));
+		// When the user clicks anywhere outside of the modal, close it
+		window.onclick = function(event) {
+	  		if (event.target == modal) {
+	    		modal.style.display = "none";
+	  		}
+		}
+	}
+
+	for (var i = 0, n = modals.length; i < n; i++) {
+		var span = document.getElementById("closemodal" + (i + 1) );
+		// When the user clicks on <span> (x), close the modal
+		span.onclick = function() {
+		  modal.style.display = "none";
+		}
+	}
+
 	// When the user clicks on the button, open the modal
 	btn.onclick = function() {
-	  modal.style.display = "block";
+		// Get the <span> element that closes the modal
+		span = document.getElementById("closemodal" + pagenum);
+		// Get the modal
+		modal = document.getElementById("myModal" + pagenum);
+	  	modal.style.display = "block";
 	}
 	
-	// When the user clicks on <span> (x), close the modal
-	span.onclick = function() {
-	  modal.style.display = "none";
-	}
-	
-	// When the user clicks anywhere outside of the modal, close it
-	window.onclick = function(event) {
-	  if (event.target == modal) {
-	    modal.style.display = "none";
-	  }
-	}
-		
 	let touchstartX = 0
 	let touchendX = 0
 	function checkDirection() {
