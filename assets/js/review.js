@@ -64,9 +64,7 @@ $(document).ready(function(){
 		$( ".radio_comments" ).click( radioclickcallback );
 
 	
-	// Get the button that opens the modal
-	var btn = document.getElementById("myBtn");
-		
+	
 	// Get the <span> element that closes the modal
 	var modals = document.getElementsByClassName("modal2");
 	for (var i = 0, n = modals.length; i < n; i++) {
@@ -77,23 +75,23 @@ $(document).ready(function(){
 	    		modal.style.display = "none";
 	  		}
 		}
-	}
-
-	for (var i = 0, n = modals.length; i < n; i++) {
 		var span = document.getElementById("closemodal" + (i + 1) );
 		// When the user clicks on <span> (x), close the modal
 		span.onclick = function() {
 		  modal.style.display = "none";
 		}
-	}
-
-	// When the user clicks on the button, open the modal
-	btn.onclick = function() {
-		// Get the <span> element that closes the modal
-		span = document.getElementById("closemodal" + pagenum);
-		// Get the modal
-		modal = document.getElementById("myModal" + pagenum);
-	  	modal.style.display = "block";
+		// Get the button that opens the modal
+		var btn = document.getElementById("myBtn" + (i + 1));
+		// When the user clicks on the button, open the modal
+		if (btn != null) {
+			btn.onclick = function() {
+				// Get the <span> element that closes the modal
+				span = document.getElementById("closemodal" + pagenum);
+				// Get the modal
+				modal = document.getElementById("myModal" + pagenum);
+			  	modal.style.display = "block";
+			}
+		}
 	}
 	
 	let touchstartX = 0

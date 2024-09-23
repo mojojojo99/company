@@ -38,7 +38,10 @@
               </div>
             <hr style="margin: 1.5em 0"/>
             <div style="text-align:left">
-            {{comment.message | strip_html | markdownify | slice: 0, 300 }} ...
+            {{comment.message | strip_html | markdownify | slice: 0, 300 }} 
+            {% if comment.message.size > 300 %}
+            ...
+            {% endif %}
             <br />
             <br />
             <p>
@@ -51,15 +54,18 @@
                 {{ comment.date | date:"%H:%M - %b %-d, %Y" }}
               </time>
             </p>
+            <div>
+              {% if comment.message.size > 300 %}
+              <button id="myBtn{{i}}" style="margin-top:2em; font-size: .7em"><u>Read full review</u></button>
+              {% endif %}
+            </div>
             </div>
 	    </div>
 </div>
 </div>
 {% endfor %}
 </div>
-
 <div>
-<button id="myBtn" style="margin-bottom:2em">Read full comment</button>
 </div>
 	
 </div>
