@@ -19,10 +19,10 @@
 	<div class="testimonial_2">
 		<div class="content_2" style="overflow-wrap:break-word; color: white">
 	            <div class="row uniform">
-                <div class="6u 12u(small)">
+                <div class="6u 12u(small)" style="padding: 0 0 0 1.5em">
 			            <h3 style="text-align:left; padding-top:1em">{{comment.name}}</h3>
                 </div>
-                <div class="6u 12u(small)">
+                <div class="6u 12u(small)" style="padding: 0 0 0 1.5em">
                 {% if comment.rating == "5" %}
                   <h3 style="text-align:left; font-size:2em; color: gold">★★★★★</h3>
                 {% elsif comment.rating == "4" %}
@@ -38,7 +38,7 @@
               </div>
             <hr style="margin: 1.5em 0"/>
             <div style="text-align:left">
-            {{comment.message | strip_html | markdownify }}
+            {{comment.message | strip_html | markdownify | slice: 0, 300 }} ...
             <br />
             <br />
             <p>
@@ -53,10 +53,15 @@
             </p>
             </div>
 	    </div>
-	</div>
+</div>
 </div>
 {% endfor %}
 </div>
+
+<div>
+<button id="myBtn" style="margin-bottom:2em">Read all full comments</button>
+</div>
+	
 </div>
 <div id="controls">
 {% for comment in sorted_comments %}
