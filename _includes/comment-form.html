@@ -6,6 +6,35 @@
     type="hidden"
     value="{{ page.url | absolute_url }}"
   />
+ <input name="options[slug]" type="hidden" value="{{ page.slug }}" />
+  <p style="text-align: left; margin: 0;"><b>Name (required)</b></p>
+  <input
+    class="comment-name"
+    name="fields[name]"
+    type="text"
+    placeholder="Name"
+    required
+  />
+  <br />
+  <p style="text-align: left; margin: 0;"><b>Phone Number</b></p>
+  <p style="font-size: 0.6em; text-align: left; margin-bottom: .25em">We'll follow up about your review through the contact number here if provided.</p>
+  <input
+    class="comment-phone"
+    name="fields[phone]"
+    type="tel"
+    pattern="[0-9]{4} [0-9]{4}"
+    placeholder="8888 8888"
+    title="8888 8888"
+  />
+  <br />
+  <p style="text-align: left; margin: 0;"><b>Feedback (required)</b></p>
+  <textarea
+    class="comment-message"
+    name="fields[message]"
+    placeholder="Feedback/Testimonial message (optional)"
+  ></textarea>
+  <br/>
+  <p style="text-align: left; margin: 0;"><b>Leave a 1-5 star rating here (required)</b></p>
   <div id="warning-rating" class="apparent-message warning-message">
   <div class="message-container">
     <div class="apparent-message-icon fa fa-fw fa-2x fa-exclamation-triangle">
@@ -28,33 +57,5 @@
       <label style="color: #2369a7" for="star1">☆</label>
       <div class="clear"></div>
   </div>
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}" />
-  <p style="text-align: left; margin: 0;"><b>Name</b></p>
-  <input
-    class="comment-name"
-    name="fields[name]"
-    type="text"
-    placeholder="Name"
-    required
-  />
-  <br />
-  <p style="text-align: left; margin: 0;"><b>Phone Number</b></p>
-  <p style="font-size: 0.6em; text-align: left; margin-bottom: .25em">We'll follow up about your review through the contact number here if provided.</p>
-  <input
-    class="comment-phone"
-    name="fields[phone]"
-    type="tel"
-    pattern="[0-9]{4} [0-9]{4}"
-    placeholder="8888 8888"
-    title="8888 8888"
-  />
-  <br />
-  <p style="text-align: left; margin: 0;"><b>Feedback</b></p>
-  <textarea
-    class="comment-message"
-    name="fields[message]"
-    placeholder="Feedback/Testimonial message (optional)"
-  ></textarea>
-  <br/>
   <button class="comment-submit" type="submit">Leave a review</button>
 </form>
