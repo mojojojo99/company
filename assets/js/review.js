@@ -83,8 +83,8 @@ $(document).ready(function(){
 	let touchendX = 0
 	function checkDirection() {
 	  console.log(touchstartX, touchendX)
-	  if (touchendX + 30 < touchstartX) pagenum--;
-	  if (touchendX - 30 > touchstartX) pagenum++;
+	  if (touchendX + 30 < touchstartX) pagenum++;
+	  if (touchendX - 30 > touchstartX) pagenum--;
 
 	  var allElements = document.getElementsByClassName('control_comments');
 
