@@ -118,8 +118,8 @@ $(document).ready(function(){
      var radios = document.getElementsByName("fields[rating]");
      for (var i = 0, len = radios.length; i < len; i++) {
           if (radios[i].checked) {
+			alert("Response is received! We will review the feedback, thank you!");
 			event.preventDefault();
-			alert("true");
             return true;
           }
      }
