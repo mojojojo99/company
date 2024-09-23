@@ -82,14 +82,10 @@ $(document).ready(function(){
 	let touchstartX = 0
 	let touchendX = 0
 	function checkDirection() {
-	  console.log(touchstartX, touchendX)
 	  if (touchendX + 30 < touchstartX) pagenum++;
 	  if (touchendX - 30 > touchstartX) pagenum--;
 
 	  var allElements = document.getElementsByClassName('control_comments');
-
-	  console.log(pagenum)
-
 	  if (pagenum > allElements.length) {
 		   pagenum = 1;
 	  } 
