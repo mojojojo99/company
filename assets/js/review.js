@@ -11,9 +11,10 @@ $(document).ready(function(){
 		$("#contact").click(function() {
 			window.location.href = "contact";
  	    });
+
+		pagenum = 1;
 		function AutoRotate() {
 		   var allElements = document.getElementsByClassName('control_comments');
-		   pagenum = 1;
 		   count = 0;
 		   for (var i = 0, n = allElements.length; i < n; i++) {
 			   var myfor = allElements[i].getAttribute('for');
@@ -60,7 +61,6 @@ $(document).ready(function(){
 		
 	// Get the <span> element that closes the modal
 	var span = document.getElementById("closemodal");
-	console.log(span)
 		
 	// When the user clicks on the button, open the modal
 	btn.onclick = function() {
@@ -69,7 +69,6 @@ $(document).ready(function(){
 	
 	// When the user clicks on <span> (x), close the modal
 	span.onclick = function() {
-	  console.log("what");
 	  modal.style.display = "none";
 	}
 	
@@ -80,7 +79,44 @@ $(document).ready(function(){
 	  }
 	}
 		
-	});
+	let touchstartX = 0
+	let touchendX = 0
+	function checkDirection() {
+	  console.log(touchstartX, touchendX)
+	  if (touchendX + 30 < touchstartX) pagenum--;
+	  if (touchendX - 30 > touchstartX) pagenum++;
+
+	  var allElements = document.getElementsByClassName('control_comments');
+
+	  console.log(pagenum)
+
+	  if (pagenum > allElements.length) {
+		   pagenum = 1;
+	  } 
+	  if (pagenum < 0) {
+		   pagenum = allElements.length;
+	  }
+	  clearInterval(timer);
+	  for (var i = 0, n = allElements.length; i < n; i++) {
+		   var myfor = allElements[i].getAttribute('for');
+		   if ((myfor !== null) && (myfor == ('slide_2_' + pagenum))) {
+			    var radio = document.getElementById(myfor);
+			    radio.checked = true;
+			    break;
+		   }
+	  }
+	
+	}
+
+	document.getElementById("testimonial_slider").addEventListener('touchstart', e => {
+	  touchstartX = e.changedTouches[0].screenX
+	})
+
+	document.getElementById("testimonial_slider").addEventListener('touchend', e => {
+	  touchendX = e.changedTouches[0].screenX
+	  checkDirection()
+	})
+});
 
  function submitForm(event){
      var radios = document.getElementsByName("fields[rating]");

@@ -1,5 +1,5 @@
 <!-- _includes/comment-list.html -->
-<div class="testimonial_slider_2">
+<div id="testimonial_slider" class="testimonial_slider_2">
 {% assign comments = site.data.comments | where_exp: "item", "true" %} 
 {% assign sorted_comments = comments | sort: 'date' %} 
 {% for comment in sorted_comments %}
