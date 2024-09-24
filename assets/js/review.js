@@ -150,3 +150,8 @@ function phoneMask() {
     $(this).val(num.substring(0,4) + ' ' + num.substring(4,8)); 
 }
 $('[type="tel"]').keyup(phoneMask);
+
+function textAreaAdjust(element) {
+  element.style.height = "1px";
+  element.style.height = (25+element.scrollHeight)+"px";
+}
