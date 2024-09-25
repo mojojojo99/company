@@ -16,7 +16,7 @@ Our thoughts and prayers are always with you.
 Sim Hup Seng Services wholeheartedly believes in <b>honoring every life with utmost respect</b> and providing the best support to send loved ones off on their last journey. 
 Our team and capable partners with decades of experience go the long way to provide <b>tailored, professional and respectful services for all faiths</b>.
 <br /><br />
-We promise and fully commit to <b>transparent pricing</b> for all packages. As each package is fully customized, please contact us for further information at <b style="font-weight: 800; font-size: 1em; color: #660000"> (65) 9112 5678 </b>.
+We promise and fully commit to <b>transparent pricing</b> for all packages. As each package is fully customized, please contact us for further information at <b style="font-weight: 800; font-size: 1em; color: #660000"><a href="https://api.whatsapp.com/send/?phone=6591125678"> (65) 9112 5678 </a></b>.
 <br /><br />
 <hr />
 <h3>Buddhist/Taoist <b>Funeral Management Services:</b></h3>

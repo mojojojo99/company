@@ -11,7 +11,7 @@ image2: iconblur.jpg
 <section>
 <h2>Contact Us</h2>
 
-Please feel free to connect with us through whatsapp, phone or email. <br /><br/>
+Please feel free to connect with us through <a href="https://api.whatsapp.com/send/?phone=6591125678">whatsapp</a>, phone or email. <br /><br/>
 We will respond in 1-2 business days.
 
 <hr/>
@@ -19,7 +19,7 @@ We will respond in 1-2 business days.
 	<div class="row uniform 50%">
 		<div class="6u 12u(small)">
 			<h3> Phone us: </h3>
-			HP    : <b style="font-weight: 800; font-size: 1em; color: #660000"> (65) 9112 5678 </b> <br />
+			HP    : <b style="font-weight: 800; font-size: 1em; color: #660000"><a href="https://api.whatsapp.com/send/?phone=6591125678"> (65) 9112 5678 </a></b> <br />
 			T / F : <b style="font-weight: 800; font-size: 1em; color: #660000"> (65) 3151 3998 </b> <br />
 			<br/>
 			<h3> Email us: </h3>
