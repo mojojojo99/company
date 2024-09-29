@@ -40,9 +40,9 @@ We take pride in our trade -- designining, building and delivering toilets with 
 <hr />
 	
 <h2>Our Humble Beginnings</h2>
-Sim Hup Seng has a long history, stretching back to the 1980s. From generation to generation, this business and the service philosophy was passed down through the family line. 
+Sim Hup Seng Services (SHS Group) has a long history, stretching back to the 1980s. From generation to generation, this business and the service philosophy was passed down through the family line. 
 
-Sim Hup Seng Services (SHS Group) has gone through many remarkable changes since its humble origins. Thomas, the current owner of the business, has repeatedly re-designed the Portable Toilets into the present day <b>fiber-glass manhole toilets with a range of premium facilities</b> to meet your needs. From a one man show, our business has grown steadily over the last decades.
+Thomas, the current owner of the business, has repeatedly re-designed the Portable Toilets into the present day <b>fiber-glass manhole toilets with a range of premium facilities</b> to meet your needs. From a one man show, our business has grown steadily over the last decades.
 <hr />
 
 <h4>Our Timeline</h4>
