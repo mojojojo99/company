@@ -12,11 +12,32 @@ image2: iconblur.jpg
 <h2>VIP Portable Toilet Rentals</h2>
 All below toilets are available for rental. <br /><br />
 We provide <b>manhole toilets</b> with water supply -- these toilets are placed on manholes so that the toilet flushes directly to the sewers. 
-
 <br /><br />
 <hr />
-<h3><b>Our new </b>VIP Portable Toilets</h3>
-Our newer fleet of products acquired in 2018, fully equipped with elderly friendly features.
+
+<h3 style="color: #660000" class="blink_text"><b>Our </b>NEW VIP Portable Toilets (Oct 2024)</h3>
+Our NEW fleet of products just acquired in October 2024, upgraded with new luxury installments on top of existing elderly friendly features. <br/>
+Experience the luxury today!
+<br/>
+<br/>
+<div class="row uniform 50%">
+	<div class="7u 12u(small) image" style="padding: 2em"><img src="assets/images/banner1.jpg"></div>
+	<div class="5u 12u(small)" style="padding-top: 2em">
+    <ul>
+	    <li style="margin-left: 2em"><b>New & Improved</b> elderly friendly features</li>
+	    <li style="margin-left: 2em"><b>Upgraded</b> anti-slip flooring mat</li>
+	    <li style="margin-left: 2em"><b>Upgraded</b> ventilation technologies</li>
+	    <li style="margin-left: 2em"><b>Spacious interior</b></li>
+	    <li style="margin-left: 2em"><b>Completely Revamped</b> facilities (shower, basin, toilet bowl etc.)</li>
+    </ul>
+    </div>
+</div>
+<hr />
+</section> 
+
+<section>
+<h3><b>Our </b>VIP Portable Toilets</h3>
+Our fleet of products acquired in 2018, fully equipped with elderly friendly features.
 <br/>
 <br/>
 <br/>
