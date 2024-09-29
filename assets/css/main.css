@@ -3969,10 +3969,8 @@ img {
 }
 .ag-timeline-card_meta {
   margin: 10px 0 0;
-
-  font-family: 'ESL Legend', sans-serif;
   font-weight: bold;
-  font-size: 28px;
+  font-size: 1.4em;
   color: #660000;
 }
 .ag-timeline-card_item {
@@ -4062,9 +4060,8 @@ img {
   display: none;
   margin: 10px 0 0;
 
-  font-family: 'ESL Legend', sans-serif;
   font-weight: bold;
-  font-size: 28px;
+  font-size: 1.4em;
   color: #660000;
 }
 .ag-timeline-card_desc {

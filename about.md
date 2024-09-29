@@ -218,7 +218,7 @@ Retrace our footsteps here!
                 <div class="ag-timeline-card_point">1980</div>
               </div>
               <div class="ag-timeline-card_meta-box">
-                <div class="ag-timeline-card_meta">Beginnings</div>
+                <div class="ag-timeline-card_meta">起初</div>
               </div>
             </div>
             <div class="ag-timeline-card_item">
@@ -227,7 +227,7 @@ Retrace our footsteps here!
                   <img src="assets/images/hist1.jpg" class="ag-timeline-card_img" style="padding:0 20% 0 20%" height="360" />
                 </div>
                 <div class="ag-timeline-card_info">
-                  <div class="ag-timeline-card_title">Beginnings</div>
+                  <div class="ag-timeline-card_title">起初</div>
                   <div class="ag-timeline-card_desc">
                     新合成是个30多年的老招牌。那时林瑞远先生自己亲手创办了新合成，公司仅有10只流动厕所。
                   </div>
@@ -239,7 +239,7 @@ Retrace our footsteps here!
           <div class="js-timeline_item ag-timeline_item">
             <div class="ag-timeline-card_box">
               <div class="ag-timeline-card_meta-box">
-                <div class="ag-timeline-card_meta">Taking over the business</div>
+                <div class="ag-timeline-card_meta">接手</div>
               </div>
               <div class="js-timeline-card_point-box ag-timeline-card_point-box">
                 <div class="ag-timeline-card_point">2009</div>
@@ -251,7 +251,7 @@ Retrace our footsteps here!
                   <img src="assets/images/hist2.png" class="ag-timeline-card_img" width="640" height="360" alt="" />
                 </div>
                 <div class="ag-timeline-card_info">
-                  <div class="ag-timeline-card_title">Taking over the business</div>
+                  <div class="ag-timeline-card_title">接手</div>
                   <div class="ag-timeline-card_desc">
                     Thomas老板在2009年尾开始帮忙父亲管理公司。Thomas认为做什么事都必须从最底层做起。做出租流动厕所的生意也一样，必须自己去体验搬运厕所的酸甜苦乐，才会从日晒雨淋中了解到员工们工作的辛酸和得到一些意想不到的启发。
                   </div>
@@ -266,7 +266,7 @@ Retrace our footsteps here!
                 <div class="ag-timeline-card_point">2010</div>
               </div>
               <div class="ag-timeline-card_meta-box">
-                <div class="ag-timeline-card_meta">Opportunity for Change</div>
+                <div class="ag-timeline-card_meta">细心的发现</div>
               </div>
             </div>
             <div class="ag-timeline-card_item">
@@ -275,7 +275,7 @@ Retrace our footsteps here!
                   <img src="assets/images/hist3.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
                 </div>
                 <div class="ag-timeline-card_info">
-                  <div class="ag-timeline-card_title">Opportunity for Change</div>
+                  <div class="ag-timeline-card_title">细心的发现</div>
                   <div class="ag-timeline-card_desc">
                     有一次，在Thomas带领员工去服务一组丧礼时，他目睹一位年迈的老妇极辛苦的想要攀上铁厕的夹梯。他连忙上前扶持老妇并协助她登上铁厕。老妇抱怨自己已老迈，双脚无力，要登上夹梯上个厕所已是一个很艰难的挑战。如厕时还要她蹲下，简直是苦不堪言。
                     她的话一字一字地触动了Thomas，也刺痛了他的心。于是Thomas开始了他的新构思。他想要设计出比较经济实惠，而且非常适用于乐龄人士的流动厕所。
@@ -288,7 +288,7 @@ Retrace our footsteps here!
           <div class="js-timeline_item ag-timeline_item">
             <div class="ag-timeline-card_box">
               <div class="ag-timeline-card_meta-box">
-                <div class="ag-timeline-card_meta">The New Age</div>
+                <div class="ag-timeline-card_meta">改变</div>
               </div>
               <div class="js-timeline-card_point-box ag-timeline-card_point-box">
                 <div class="ag-timeline-card_point">2011</div>
@@ -300,7 +300,7 @@ Retrace our footsteps here!
                   <img src="assets/images/hist42.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
                 </div>
                 <div class="ag-timeline-card_info">
-                  <div class="ag-timeline-card_title">The New Age</div>
+                  <div class="ag-timeline-card_title">改变</div>
                   <div class="ag-timeline-card_desc">
                   整整用了8个月的时间设计和改良，第一批为乐龄人士而设计的厕所终于在2011年9月面市了。这10只用塑料厕改装的厕所，厕内面积宽大，厕所的地板只离地少于15cm，而且也安装了陶瓷坐式马桶。这样一来，乐龄人只须踏一小步就能进入厕内。更重要的是双腿无力的乐龄人可以坐在马桶上，不必在担忧双脚无法蹲的问题了。而且厕所里也设有防滑地板，花洒，镜子，洗手盆，吊衣架等等。
                   </div>
@@ -315,7 +315,7 @@ Retrace our footsteps here!
                 <div class="ag-timeline-card_point">2013</div>
               </div>
               <div class="ag-timeline-card_meta-box">
-                <div class="ag-timeline-card_meta">A Huge Success</div>
+                <div class="ag-timeline-card_meta">成功</div>
               </div>
             </div>
             <div class="ag-timeline-card_item">
@@ -324,7 +324,7 @@ Retrace our footsteps here!
                   <img src="assets/images/hist5.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
                 </div>
                 <div class="ag-timeline-card_info">
-                  <div class="ag-timeline-card_title">A Huge Success</div>
+                  <div class="ag-timeline-card_title">成功</div>
                   <div class="ag-timeline-card_desc">
                     这厕所广受乐龄人士欢迎。这使Thomas决定要全新改革，把所有的铁厕更换，引进了更多的乐龄人士的塑厕。第二批32架塑厕也因此在2013年5月面市了。这批新塑厕也势必为流动厕所这一行业带来一阵新风潮。
                   </div>
@@ -336,7 +336,7 @@ Retrace our footsteps here!
           <div class="js-timeline_item ag-timeline_item">
             <div class="ag-timeline-card_box">
               <div class="ag-timeline-card_meta-box">
-                <div class="ag-timeline-card_meta">The Service Mindset</div>
+                <div class="ag-timeline-card_meta">我们的执着</div>
               </div>
               <div class="js-timeline-card_point-box ag-timeline-card_point-box">
                 <div class="ag-timeline-card_point">2024</div>
@@ -348,7 +348,7 @@ Retrace our footsteps here!
                   <img src="assets/images/hist6.jpg" class="ag-timeline-card_img" width="640" height="360" alt="" />
                 </div>
                 <div class="ag-timeline-card_info">
-                  <div class="ag-timeline-card_title">The Service Mindset</div>
+                  <div class="ag-timeline-card_title">我们的执着</div>
                   <div class="ag-timeline-card_desc">
                   Thomas相信所有同行会跟风而改进自己的厕所以迎合市场的需求。他希望自己的创新能使流动厕所的水平提高，乐龄人士也因此不用再为使用流动厕所这事而烦恼了。
                   </div>
