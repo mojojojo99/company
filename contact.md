@@ -11,7 +11,7 @@ image2: iconblur.jpg
 <section>
 <h2>Contact Us</h2>
 
-Please feel free to connect with us through <a href="https://api.whatsapp.com/send/?phone=6591125678">whatsapp</a>, <a href="tel:6591125678">phone</a> or email. <br /><br/>
+Please feel free to connect with us through <a href="https://api.whatsapp.com/send/?phone=6591125678">whatsapp</a>, <a href="tel:+6591125678">phone</a> or email. <br /><br/>
 We will respond in 1-2 business days.
 
 <hr/>
@@ -21,7 +21,7 @@ We will respond in 1-2 business days.
 			<h3> Phone us: </h3>
 			HP    : 
 			<b style="font-weight: 800; font-size: 1em; color: #660000">
-			<a href="tel:6591125678">(65) 9112 5678 </a></b><br/>
+			<a href="tel:+6591125678">(65) 9112 5678 </a></b><br/>
 			Whatsapp Text/Call    : 
 			<b style="font-weight: 800; font-size: 1em; color: #660000">
 			<a href="https://api.whatsapp.com/send/?phone=6591125678">(65) 9112 5678 </a></b>

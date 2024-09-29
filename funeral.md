@@ -18,7 +18,7 @@ Our team and capable partners with decades of experience go the long way to prov
 <br /><br />
 We promise and fully commit to <b>transparent pricing</b> for all packages. As each package is fully customized, please call/whatsapp us for further information at 
 <b style="font-weight: 800; font-size: 1em; color: #660000">
-<a href="tel:6591125678">(65) 9112 5678 </a></b> (<a href="https://api.whatsapp.com/send/?phone=6591125678">whatsapp</a>).
+<a href="tel:+6591125678">(65) 9112 5678 </a></b> (<a href="https://api.whatsapp.com/send/?phone=6591125678">whatsapp</a>).
 <br /><br />
 <hr />
 <h3>Buddhist/Taoist <b>Funeral Management Services:</b></h3>
