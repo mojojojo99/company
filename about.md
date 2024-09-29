@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-description: Sim Hup Seng Services (SHS Group) was incorporated more than 20 years ago, starting with only 10 stainless steel manhole toilets. To date we have more than 50 improved 'Elder-Friendly Portable Manhole Toilets. Learn more about what we do here! 
+description: Sim Hup Seng Services (SHS Group) was incorporated more than 20 years ago, starting with only 10 stainless steel manhole toilets. To date we have more than 70 improved 'Elder-Friendly Portable Manhole Toilets. Learn more about what we do here! 
 order: 1
 name2: about
 
