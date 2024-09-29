@@ -13,7 +13,7 @@ image2: iconblur.jpg
 <blockquote>
 Our thoughts and prayers are always with you. 
 </blockquote>
-Sim Hup Seng Services wholeheartedly believes in <b>honoring every life with utmost respect</b> and providing the best support to send loved ones off on their last journey. 
+Sim Hup Seng Services (SHS Group) wholeheartedly believes in <b>honoring every life with utmost respect</b> and providing the best support to send loved ones off on their last journey. 
 Our team and capable partners with decades of experience go the long way to provide <b>tailored, professional and respectful services for all faiths</b>.
 <br /><br />
 We promise and fully commit to <b>transparent pricing</b> for all packages. As each package is fully customized, please call/whatsapp us for further information at 

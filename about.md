@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-description: Sim Hup Seng was incorporated more than 20 years ago, starting with only 10 stainless steel manhole toilets. To date we have more than 50 improved 'Elder-Friendly Portable Manhole Toilets. Learn more about what we do here! 
+description: Sim Hup Seng Services (SHS Group) was incorporated more than 20 years ago, starting with only 10 stainless steel manhole toilets. To date we have more than 50 improved 'Elder-Friendly Portable Manhole Toilets. Learn more about what we do here! 
 order: 1
 name2: about
 
@@ -20,15 +20,15 @@ Sim Hup Seng has been devoted to designing user friendly toilets, aiming to brin
 <div class="row uniform 50%">
 	<div class="4u 12u(small) image" style="padding: 2em"><img src="assets/images/tampines.jpg"></div>
 	<div class="8u 12u(small)" style="padding: 2em">
-    We are honored to have our efforts recognized as Sim Hup Seng was the <b>first Portable Toilet Rental Company</b> permissioned to install our 'Elder-Friendly' Portable Manhole Toilets for use in the Tampines Estate, by the Town Council.<br /><br/>
-    For over 20 years, <b>Customer comfort</b> and <b>User Friendliness</b> has always been the top priority for Sim Hup Seng, and we believe that these efforts go the long way. <br/>
+    We are honored to have our efforts recognized as Sim Hup Seng Services (SHS Group) was the <b>first Portable Toilet Rental Company</b> permissioned to install our 'Elder-Friendly' Portable Manhole Toilets for use in the Tampines Estate, by the Town Council.<br /><br/>
+    For over 20 years, <b>Customer comfort</b> and <b>User Friendliness</b> has always been the top priority for Sim Hup Seng Services (SHS Group), and we believe that these efforts go the long way. <br/>
 	</div>
 </div>
 	
 <h2>Our Humble Beginnings</h2>
 Sim Hup Seng has a long history, stretching back to the 1980s. From generation to generation, this business and the service philosophy was passed down through the family line. 
 
-Sim Hup Seng Services has gone through many remarkable changes since its humble origins. Thomas, the current owner of the business, has repeatedly re-designed the Portable Toilets into the present day <b>fiber-glass manhole toilets with a range of premium facilities</b> to meet your needs. From a one man show, our business has grown steadily over the last decades.
+Sim Hup Seng Services (SHS Group) has gone through many remarkable changes since its humble origins. Thomas, the current owner of the business, has repeatedly re-designed the Portable Toilets into the present day <b>fiber-glass manhole toilets with a range of premium facilities</b> to meet your needs. From a one man show, our business has grown steadily over the last decades.
 
 <hr />
 
@@ -171,7 +171,7 @@ Retrace our footsteps here!
                   <div class="ag-timeline-card_title">A Huge Success</div>
                   <div class="ag-timeline-card_desc">
                     The new fleet of "elderly-friendly" toilets was a breakthrough in the industry and were extremely well-received by new and long-time customers alike.
-                    Industry competitors also followed suit in Sim Hup Seng Services' footsteps, raising the bar for portable toilets in Singapore.<br/>
+                    Industry competitors also followed suit in Sim Hup Seng's footsteps, raising the bar for portable toilets in Singapore.<br/>
 
                     这厕所广受乐龄人士欢迎。这使Thomas决定要全新改革，把所有的铁厕更换，引进了更多的乐龄人士的塑厕。第二批32架塑厕也因此在2013年5月面市了。这批新塑厕也势必为流动厕所这一行业带来一阵新风潮。
                   </div>

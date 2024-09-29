@@ -38,7 +38,7 @@ We will respond in 1-2 business days.
 			<gmp-map center="1.449490, 103.798968" zoom="14" map-id="DEMO_MAP_ID" style="height: 400px">
       			<gmp-advanced-marker
       			  position="1.449490, 103.798968" 
-      			  title="Sim Hup Seng Services"
+      			  title="Sim Hup Seng Services (SHS Group)"
       			></gmp-advanced-marker>
 			</gmp-map>
 			</div>
