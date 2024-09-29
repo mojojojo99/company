@@ -155,3 +155,25 @@ function textAreaAdjust(element) {
   element.style.height = "1px";
   element.style.height = (25+element.scrollHeight)+"px";
 }
+
+
+function showChineseTimeline(ch_button) {
+	ch_button.classList.add("disabled");
+	var eng_button = document.getElementById("engTimelineButton");
+	eng_button.classList.remove("disabled");
+	var ch_timeline = document.getElementById("ch-timeline");
+	ch_timeline.style.display="unset";
+	var eng_timeline = document.getElementById("eng-timeline");
+	eng_timeline.style.display="none";
+
+}
+
+function showEnglishTimeline(eng_button) {
+	eng_button.classList.add("disabled");
+	var ch_button = document.getElementById("chTimelineButton");
+	ch_button.classList.remove("disabled");
+	var ch_timeline = document.getElementById("ch-timeline");
+	ch_timeline.style.display="none";
+	var eng_timeline = document.getElementById("eng-timeline");
+	eng_timeline.style.display="unset";
+}

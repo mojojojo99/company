@@ -11,16 +11,21 @@
     });
 
 
+
+    agFlag = false;
+    agTimelineItem = $('.js-timeline_item');
+    agOuterHeight = $(window).outerHeight(),
+    agHeight = $(window).height(),
+    f = -1,
+    scale = $(window).width() < 736 ? 1.5 : 0.5;
+
+
     var agTimeline = $('.js-timeline'),
       agTimelineLine = $('.js-timeline_line'),
       agTimelineLineProgress = $('.js-timeline_line-progress'),
       agTimelinePoint = $('.js-timeline-card_point-box'),
-      agTimelineItem = $('.js-timeline_item'),
-      agOuterHeight = $(window).outerHeight(),
-      agHeight = $(window).height(),
-      f = -1,
-      scale = $(window).width() < 736 ? 1.5 : 0.5;
-      agFlag = false;
+      engTimeline = $('#eng-timeline');
+
 
     function fnOnScroll() {
       agPosY = $(window).scrollTop();
@@ -38,9 +43,11 @@
     function fnUpdateWindow() {
       agFlag = false;
 
+      console.log(agTimeline.offset().top, engTimeline.outerHeight(), agTimelineItem.last().find(agTimelinePoint).offset().top);
+
       agTimelineLine.css({
         top: agTimelineItem.first().find(agTimelinePoint).offset().top - agTimelineItem.first().offset().top,
-        bottom: agTimeline.offset().top + agTimeline.outerHeight() - agTimelineItem.last().find(agTimelinePoint).offset().top
+        // bottom: agTimeline.offset().top + engTimeline.outerHeight() - agTimelineItem.last().find(agTimelinePoint).offset().top
       });
 
       f !== agPosY && (f = agPosY, agHeight, fnUpdateProgress());
