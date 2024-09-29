@@ -22,7 +22,7 @@ We promise and fully commit to <b>transparent pricing</b> for all packages. As e
 <br /><br />
 <hr />
 <h3>Buddhist/Taoist <b>Funeral Management Services:</b></h3>
-Buddhist/Taoist funerals are usually conducted in void decks and parlors. Some might opt to invite monks onsite to offer prayers and memorial services. Food, beverages and light refreshments can be arranged for guests paying respects.
+Buddhist/Taoist funerals are usually conducted in void decks and parlors. Some might opt to invite monks/taoists onsite to offer prayers and memorial services. Food, beverages and light refreshments can be arranged for guests paying respects.
 
 <br/>
 <br/>

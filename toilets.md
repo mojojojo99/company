@@ -68,8 +68,8 @@ Our newer fleet of products acquired in 2018, fully equipped with elderly friend
 				<li style="margin-left: 2em">Mirror</li>
 				<li style="margin-left: 2em">Liquid soap dispenser</li>
 				<li style="margin-left: 2em">Safety handrail/ bar</li>
-				<li style="margin-left: 2em">Exhaust fan</li>
-				<li style="margin-left: 2em">Scented wall</li>
+				<li style="margin-left: 2em">Ventilation fan</li>
+	            <li style="margin-left: 2em">Scented wall</li>
 				<li style="margin-left: 2em">Ceiling light</li>
 				<li style="margin-left: 2em">Toilet roll holder</li>
 				<li style="margin-left: 2em">Bin</li>
@@ -103,7 +103,7 @@ Our newer fleet of products acquired in 2018, fully equipped with elderly friend
 	<li style="margin-left: 2em">Mirror</li>
 	<li style="margin-left: 2em">Liquid soap dispenser</li>
 	<li style="margin-left: 2em">Safety handrail/ bar</li>
-	<li style="margin-left: 2em">Exhaust fan</li>
+	<li style="margin-left: 2em">Ventilation fan</li>
 	<li style="margin-left: 2em">Scented wall</li>
 	<li style="margin-left: 2em">Ceiling light</li>
 	<li style="margin-left: 2em">Toilet roll holder</li>
@@ -226,7 +226,6 @@ Our older batch of products acquired in 2015. Well-maintained, fully functioning
 	<li style="margin-left: 2em">Liquid soap dispenser</li>
 	<li style="margin-left: 2em">Safety handrail/ bar</li>
 	<li style="margin-left: 2em">Exhaust fan</li>
-	<li style="margin-left: 2em">Scented wall</li>
 	<li style="margin-left: 2em">Ceiling light</li>
 	<li style="margin-left: 2em">Toilet roll holder</li>
 	<li style="margin-left: 2em">Bin</li>
