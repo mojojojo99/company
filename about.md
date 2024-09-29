@@ -10,11 +10,23 @@ image2: iconblur.jpg
 ---
 
 
-<h2>Why Us?</h2>
+<h2>Why Us? </h2>
 
-<b>Convenience</b>, <b>Comfort</b> and <b>Safety</b>. <br/> 
+The <span style="font-weight: 800; font-size: 2em; color: #660000"> SHS </span> in Sim Hup Seng Services (SHS Group) embodies our principles: 
 
-Sim Hup Seng has been devoted to designing user friendly toilets, aiming to bring comfort for all users. Our newly designed toilets are designed for <b>elderly friendly usage </b> with safety handrails, sitting-style toilet bowls, low steps etc. (<a href="toilets">click here</a> for more information on our toilets). 
+<span style="font-weight: 800; font-size: 2em; color: #660000"> S </span><b>afety</b>
+
+We design our toilets for <b> safety </b>, such as elderly friendly usage with safety handrails, sitting-style toilet bowls, low steps etc. (<a href="toilets">click here</a> for more info on our toilets). 
+
+<span style="font-weight: 800; font-size: 2em; color: #660000"> H </span><b>onesty</b>
+
+We believe in <b> honest </b> prices and we are committed to giving upfront transparent quotes. No hidden costs!
+
+<span style="font-weight: 800; font-size: 2em; color: #660000"> S </span><b>incerity</b>
+
+We take pride in our trade -- designining, building and delivering toilets with <b>sincerity</b> and a personal touch. We believe that our actions will speak for us and our sincerity will come through in our work.
+
+<br/>
 
 <h2>Recognition</h2>
 <div class="row uniform 50%">
