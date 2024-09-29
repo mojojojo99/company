@@ -60,8 +60,8 @@ Retrace our footsteps here!
                 <div class="ag-timeline-card_info">
                   <div class="ag-timeline-card_title">Beginnings</div>
                   <div class="ag-timeline-card_desc">
-                    Mr Lim SY, the current owner's father, started this business from scratch with a mere 10 portable toilets.  
-                    Mr Lim SY ran this business by himself, handling each tentage rental request and delivering each portable toilet personally.<br/>
+                    Mr Lim SY, the current owner's father, started this business from scratch by himself, with a mere 10 portable toilets.  
+                    <br/>
 
                     新合成是个30多年的老招牌。那时林瑞远先生自己亲手创办了新合成，公司仅有10只流动厕所。
                   </div>
@@ -87,8 +87,7 @@ Retrace our footsteps here!
                 <div class="ag-timeline-card_info">
                   <div class="ag-timeline-card_title">Taking over the business</div>
                   <div class="ag-timeline-card_desc">
-                    The current owner, Thomas was then entrusted with Sim Hup Seng from his father, Mr. Lim SY, and renamed it to Sim Hup Seng Services. 
-                    Being new in this sector, Thomas had big shoes to fill.<br/> 
+                    The current owner, Thomas was then entrusted with Sim Hup Seng from Mr. Lim SY and renamed it to Sim Hup Seng Services. Being new in this sector, Thomas had big shoes to fill.<br/> 
 
                     Thomas老板在2009年尾开始帮忙父亲管理公司。Thomas认为做什么事都必须从最底层做起。做出租流动厕所的生意也一样，必须自己去体验搬运厕所的酸甜苦乐，才会从日晒雨淋中了解到员工们工作的辛酸和得到一些意想不到的启发。
                   </div>
@@ -144,7 +143,7 @@ Retrace our footsteps here!
                 <div class="ag-timeline-card_info">
                   <div class="ag-timeline-card_title">The New Age</div>
                   <div class="ag-timeline-card_desc">
-                  Thomas worked hard re-designing a new fleet of portable toilets. These toilets will have no raised steps, sitting-style ceramic bowls, elderly handrails and anti-slip flooring. With bated breath, the toilet was launched to market. <br/>
+                  Thomas worked hard re-designing a new fleet of toilets with no raised steps, sitting-style ceramic bowls, elderly handrails and anti-slip flooring. With bated breath, the toilet was launched to market. <br/>
 
                   整整用了8个月的时间设计和改良，第一批为乐龄人士而设计的厕所终于在2011年9月面市了。这10只用塑料厕改装的厕所，厕内面积宽大，厕所的地板只离地少于15cm，而且也安装了陶瓷坐式马桶。这样一来，乐龄人只须踏一小步就能进入厕内。更重要的是双腿无力的乐龄人可以坐在马桶上，不必在担忧双脚无法蹲的问题了。而且厕所里也设有防滑地板，花洒，镜子，洗手盆，吊衣架等等。
                   </div>
