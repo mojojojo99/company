@@ -27,7 +27,7 @@ We will respond in 1-2 business days.
 			<a href="https://api.whatsapp.com/send/?phone=6591125678">(65) 9112 5678 </a></b>
 			<br/><br/>
 			<h3> Email us: </h3>
-			Email: <b style="font-weight: 800; font-size: 1em; color: #660000">simhupseng@gmail.com </b> <br /> <br/>
+			Email: <b style="font-weight: 800; font-size: 1em; color: #660000"><a href="mailto:simhupseng@gmail.com">simhupseng@gmail.com</a></b> <br /> <br/>
 			<h3> Address:</h3>
 			61 Woodlands Industrial Park E9. <br />
 			Unit #04-18. <br />
