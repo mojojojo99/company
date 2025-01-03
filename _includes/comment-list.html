@@ -1,7 +1,8 @@
 <!-- _includes/comment-list.html -->
 <div id="testimonial_slider" class="testimonial_slider_2">
 {% assign comments = site.data.comments | where_exp: "item", "true" %} 
-{% assign sorted_comments = comments | sort: 'date' | reverse %} 
+{% assign sorted_comments = comments | sort: 'date' | reverse  | slice: 0, 5 %} 
+
 {% for comment in sorted_comments %}
 {% capture number %}{{ forloop.length }}{% endcapture %}
 {% assign i = forloop.index0 | plus:1 %}
@@ -11,6 +12,9 @@
 <input type="radio" class="radio_comments" style="margin-top: 2em" name="slider_2" id="slide_2_{{i}}" />
 {% endif %}
 {% endfor %}
+
+<input type="radio" class="radio_comments" style="margin-top: 2em" name="slider_2" id="slide_2_6" />
+
 <div class="boo_inner clearfix">
 {% for comment in sorted_comments %}
 {% capture number %}{{ forloop.length }}{% endcapture %}
@@ -38,8 +42,8 @@
               </div>
             <hr style="margin: 1.5em 0"/>
             <div style="text-align:left">
-            {{comment.message | strip_html | markdownify | slice: 0, 300 }} 
-            {% if comment.message.size > 300 %}
+            {{comment.message | strip_html | markdownify | slice: 0, 250 }} 
+            {% if comment.message.size > 250 %}
             ...
             {% endif %}
             <br />
@@ -55,7 +59,7 @@
               </time>
             </p>
             <div>
-              {% if comment.message.size > 300 %}
+              {% if comment.message.size > 250 %}
               <button id="myBtn{{i}}" style="margin-top:2em; font-size: .7em"><u>Read full review</u></button>
               {% endif %}
             </div>
@@ -64,6 +68,21 @@
 </div>
 </div>
 {% endfor %}
+
+
+<div class="slide_content">
+	<div class="testimonial_2">
+    <h2> Read All Reviews </h2>
+    <hr style="margin: 1.5em 0"/>
+		<div class="content_2" style="overflow-wrap:break-word; color: white; text-align:left">
+      See more of what others have said about us! <br/>
+      These are all reviews/feedback left on the website using the feedback form below.
+    </div>
+		<a href="reviews" style="margin-top:2em; font-size: .9em;" class="button special">Read More</a>
+  </div>
+</div>
+
+
 </div>
 <div>
 </div>
@@ -75,4 +94,5 @@
 {% assign i = forloop.index0 | plus:1 %}
 	<label class="control_comments" for="slide_2_{{i}}"></label>
 {% endfor %}
+	<label class="control_comments" for="slide_2_6"></label>
 </div>
