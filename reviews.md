@@ -24,7 +24,7 @@ Please feel free to <b><a href="#divReviewForm" style="color: #660000" >leave yo
 {% capture number %}{{ forloop.length }}{% endcapture %}
 {% assign i = forloop.index0 | plus:1 %}
 <div class="slide_content">
-	<div class="testimonial_2" style="background-color: #c5d5e6">
+	<div class="testimonial_2" style="background-color: #c5d5e6; margin: 2em 0">
 		<div class="content_2" style="overflow-wrap:break-word">
 	            <div class="row uniform">
                 <div class="6u 12u(small)" style="padding: 0 0 0 1.5em">
